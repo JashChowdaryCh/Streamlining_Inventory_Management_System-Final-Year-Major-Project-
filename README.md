@@ -1,6 +1,6 @@
 # Streamlining Inventory Management System with AI and IoT Technologies
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Streamlining+Inventory+Management+System+with+AI+and+IoT)
+
 
 ## Table of Contents
 - [Introduction](#introduction)

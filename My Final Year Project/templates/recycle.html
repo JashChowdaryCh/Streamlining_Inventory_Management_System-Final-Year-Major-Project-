@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recycling Guide</title>
+</head>
+<body>
+    <h2>Recycling Recommendations</h2>
+    <form method="post">
+        <label>Fabric Name: <input type="text" name="fabric"></label>
+        <input type="submit" value="Get Steps">
+    </form>
+    {% if steps %}
+        <pre>{{ steps }}</pre>
+    {% elif error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <a href="/">Back</a>
+</body>
+</html>

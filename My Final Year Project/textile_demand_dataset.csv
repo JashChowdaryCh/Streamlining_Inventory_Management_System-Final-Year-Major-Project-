@@ -1,0 +1,501 @@
+ID,Fabric Type,Historical Demand,Current Demand,Future Demand,Price per Unit,Unit Type, Season, Occasion, Budget Category
+1,Cotton,120,150,180,250,Rolls, Summer, Casual, Low
+2,Polyester,160,175,190,180,Rolls, All-Season, Casual, Low
+3,Silk,80,85,100,500,Meters, Winter, Ethnic, High
+4,Linen,50,70,90,350,Meters, Summer, Formal, Medium
+5,Wool,110,125,140,400,Kilograms, Winter, Formal, Medium
+6,Denim,190,200,210,300,Rolls, All-Season, Casual, Medium
+7,Rayon,85,95,105,280,Rolls, Summer, Casual, Low
+8,Velvet,75,80,95,550,Kilograms, Winter, Ethnic, High
+9,Chiffon,130,160,175,200,Meters, Summer, Ethnic, High
+10,Satin,125,140,160,450,Meters, All-Season, Formal, High
+11,Hemp,140,150,165,270,Rolls, Summer, Casual, Medium
+12,Jute,100,110,125,190,Kilograms, Summer, Casual, Low
+13,Ramie,90,100,115,520,Meters, Summer, Casual, Medium
+14,Bamboo Fabric,65,80,95,360,Meters, Summer, Casual, Medium
+15,Modal,105,115,130,390,Meters, Summer, Formal, Medium
+16,Tencel,170,180,200,310,Meters, Summer, Casual, Medium
+17,Cashmere,75,85,100,550,Kilograms, Winter, Formal, High
+18,Mohair,85,90,105,540,Kilograms, Winter, Formal, High
+19,Alpaca,140,150,170,210,Kilograms, Winter, Casual, High
+20,Angora,125,130,145,460,Kilograms, Winter, Casual, High
+21,Lace,95,110,125,400,Meters, Summer, Ethnic, High
+22,Organza,80,90,105,370,Meters, Summer, Ethnic, High
+23,Tweed,150,165,185,420,Meters, Winter, Formal, High
+24,Gabardine,130,145,160,380,Meters, Winter, Formal, Medium
+25,Georgette,100,115,130,450,Meters, Summer, Ethnic, High
+26,Taffeta,85,95,110,410,Meters, All-Season, Formal, High
+27,Canvas,120,135,150,340,Meters, All-Season, Casual, Low
+28,Tulle,160,175,195,300,Meters, Summer, Ethnic, High
+29,Muslin,140,155,175,270,Meters, Summer, Casual, Low
+30,Chambray,110,125,140,460,Meters, Summer, Casual, Medium
+31,Voile,75,90,105,320,Meters, Summer, Casual, Low
+32,Seersucker,95,110,130,350,Meters, Summer, Casual, Medium
+33,Tartan,180,195,210,490,Meters, Winter, Casual, Medium
+34,Brocade,140,155,170,510,Meters, Winter, Ethnic, High
+35,Crepe,85,100,115,330,Meters, All-Season, Formal, High
+36,Flannel,150,165,185,440,Meters, Winter, Casual, Medium
+37,Fleece,130,145,160,370,Meters, Winter, Casual, Medium
+38,Microfiber,105,120,140,490,Meters, All-Season, Sportswear, Medium
+39,Gauze,95,110,130,310,Meters, Summer, Casual, Low
+40,Spandex,120,135,150,350,Meters, All-Season, Sportswear, Medium
+41,Neoprene,95,110,130,480,Meters, All-Season, Sportswear, High
+42,Lyocell,85,100,120,350,Meters, Summer, Casual, Medium
+43,Cupro,160,175,190,500,Meters, All-Season, Formal, High
+44,Jacquard,130,145,165,420,Meters, All-Season, Formal, High
+45,Batiste,140,155,175,390,Meters, Summer, Casual, Low
+46,Terrycloth,105,120,135,410,Meters, Summer, Casual, Low
+47,Organdy,90,105,120,430,Meters, Summer, Ethnic, High
+48,Drill,115,130,150,400,Meters, All-Season, Workwear, Medium
+49,Corduroy,175,190,210,450,Meters, Winter, Casual, Medium
+50,Velour,160,175,195,380,Meters, Winter, Casual, Medium
+51,Poplin,110,125,140,320,Meters, All-Season, Casual, Low
+52,Khadi,140,155,175,490,Meters, Summer, Ethnic, Low
+53,Damask,85,100,120,530,Meters, All-Season, Formal, High
+54,Melton,150,165,185,360,Meters, Winter, Formal, Medium
+55,Herringbone,130,145,165,300,Meters, Winter, Formal, Medium
+56,Sateen,180,195,210,410,Meters, All-Season, Formal, Medium
+57,Duck Cloth,95,110,130,460,Meters, All-Season, Workwear, Low
+58,Piqué,125,140,160,350,Meters, Summer, Casual, Medium
+59,Serge,100,115,135,330,Meters, Winter, Formal, Medium
+60,Suede,160,175,195,540,Meters, Winter, Casual, High
+61,Oilcloth,120,135,150,500,Meters, Rainy, Workwear, Medium
+62,Cavalry Twill,140,155,170,420,Meters, Winter, Formal, Medium
+63,Ripstop,105,120,140,370,Meters, All-Season, Sportswear, Medium
+64,Challis,90,105,120,350,Meters, Summer, Casual, Medium
+65,Polynosic,175,190,210,390,Meters, All-Season, Casual, Medium
+66,Faille,130,145,165,450,Meters, All-Season, Formal, High
+67,Fustian,85,100,120,480,Meters, Winter, Casual, Medium
+68,Melange,150,165,185,340,Meters, All-Season, Casual, Medium
+69,Loden,110,125,140,290,Meters, Winter, Casual, Medium
+70,Plissé,100,115,130,510,Meters, Summer, Casual, Medium
+71,Shantung,95,110,130,470,Meters, All-Season, Formal, High
+72,Broadcloth,180,195,215,390,Meters, All-Season, Casual, Medium
+73,Matelassé,140,155,170,440,Meters, All-Season, Formal, High
+74,Birdseye,115,130,150,530,Meters, All-Season, Workwear, Medium
+75,Bark Cloth,125,140,160,360,Meters, Summer, Casual, Low
+76,Pointelle,90,105,120,310,Meters, Winter, Casual, Medium
+77,Whipcord,105,120,140,420,Meters, Winter, Workwear, Medium
+78,Hopsack,130,145,165,400,Meters, All-Season, Formal, Medium
+79,Lame,85,100,120,550,Meters, All-Season, Ethnic, High
+80,Moleskin,175,190,210,490,Meters, Winter, Casual, Medium
+81,Venetian,160,175,195,460,Meters, All-Season, Formal, High
+82,Sailcloth,140,155,175,520,Meters, Summer, Workwear, Medium
+83,Eyelash Lace,100,115,130,380,Meters, Summer, Ethnic, High
+84,Gaboon,95,110,130,340,Meters, All-Season, Workwear, Medium
+85,Huckaback,150,165,185,410,Meters, All-Season, Workwear, Low
+86,Stretch Satin,130,145,165,470,Meters, All-Season, Formal, High
+87,Madras,110,125,140,500,Meters, Summer, Casual, Medium
+88,Sharkskin,175,190,210,530,Meters, All-Season, Formal, High
+89,Crinoline,140,155,170,310,Meters, Summer, Ethnic, High
+90,Bouclé,105,120,140,360,Meters, Winter, Formal, High
+91,Basketweave,100,115,130,390,Meters, All-Season, Workwear, Medium
+92,Chenille,125,140,160,450,Meters, Winter, Casual, Medium
+93,Ottoman,85,100,120,420,Meters, All-Season, Formal, High
+94,Velveteen,160,175,195,540,Meters, Winter, Casual, Medium
+95,Tweed Houndstooth,140,155,175,470,Meters, Winter, Formal, High
+96,Triple Cloth,95,110,130,410,Meters, All-Season, Formal, High
+97,Warp Knits,150,165,185,530,Meters, All-Season, Sportswear, Medium
+98,Merino Wool,120,135,150,480,Meters, Winter, Casual, High
+99,Felted Wool,130,145,165,360,Meters, Winter, Casual, High
+100,Charmeuse,175,190,210,500,Meters, All-Season, Formal, High
+101,Cotton-Polyester,159,175,195,297,Meters,Summer,Workwear,Low
+102,Cotton-Silk,187,210,231,239,Kilograms,All-Season,Ethnic,High
+103,Cotton-Linen,118,128,147,409,Kilograms,Winter,Workwear,High
+104,Cotton-Wool,180,194,218,509,Rolls,All-Season,Sportswear,High
+105,Cotton-Rayon,66,84,110,276,Meters,Summer,Sportswear,Medium
+106,Cotton-Hemp,182,206,224,554,Meters,Winter,Casual,High
+107,Cotton-Bamboo,193,214,242,543,Meters,Rainy,Casual,Low
+108,Cotton-Tencel,118,136,150,377,Kilograms,Summer,Ethnic,Low
+109,Cotton-Modal,90,108,134,282,Rolls,Rainy,Formal,Medium
+110,Cotton-Spandex,117,134,164,320,Kilograms,Winter,Sportswear,High
+111,Cotton-Lyocell,143,149,176,515,Kilograms,All-Season,Workwear,High
+112,Cotton-Viscose,111,130,151,597,Rolls,Rainy,Sportswear,Low
+113,Cotton-Jute,70,90,112,305,Meters,Summer,Workwear,Low
+114,Cotton-Ramie,91,115,136,378,Rolls,Summer,Casual,Low
+115,Cotton-Chiffon,144,165,185,376,Meters,Summer,Formal,High
+116,Cotton-Cashmere,163,183,206,485,Meters,Rainy,Workwear,Medium
+117,Cotton-Angora,158,180,195,449,Meters,All-Season,Ethnic,Low
+118,Cotton-Velvet,54,73,87,276,Meters,Summer,Workwear,Low
+119,Cotton-Flannel,137,154,183,240,Meters,Rainy,Ethnic,Medium
+120,Cotton-Fleece,84,98,128,201,Rolls,Summer,Workwear,Low
+121,Cotton-Jacquard,195,219,246,446,Meters,Winter,Formal,Medium
+122,Cotton-Gabardine,193,215,232,240,Kilograms,Rainy,Ethnic,Low
+123,Cotton-Corduroy,53,60,80,408,Kilograms,All-Season,Formal,Medium
+124,Cotton-Denim,94,108,119,477,Kilograms,All-Season,Formal,Low
+125,Cotton-Tweed,120,141,155,468,Kilograms,Winter,Formal,Medium
+126,Cotton-Crepe,50,70,81,447,Kilograms,Rainy,Workwear,Medium
+127,Cotton-Georgette,104,129,146,385,Kilograms,Winter,Casual,High
+128,Cotton-Seersucker,137,146,164,503,Kilograms,Winter,Formal,High
+129,Cotton-Poplin,65,82,110,592,Rolls,All-Season,Formal,Low
+130,Cotton-Sateen,93,115,133,478,Rolls,Rainy,Workwear,High
+131,Cotton-Duck Cloth,113,127,154,459,Rolls,Winter,Sportswear,Low
+132,Cotton-Ripstop,88,111,132,461,Kilograms,Winter,Ethnic,Low
+133,Cotton-Broadcloth,186,211,234,401,Kilograms,All-Season,Workwear,High
+134,Cotton-Batiste,150,159,176,584,Rolls,Summer,Formal,Medium
+135,Cotton-Muslin,104,127,147,240,Rolls,Summer,Sportswear,Low
+136,Cotton-Taffeta,162,170,199,504,Kilograms,All-Season,Formal,Medium
+137,Cotton-Shantung,155,165,180,334,Kilograms,All-Season,Ethnic,Low
+138,Cotton-Velour,175,188,211,595,Kilograms,Winter,Ethnic,Low
+139,Cotton-Satin,64,87,109,318,Meters,All-Season,Formal,High
+140,Cotton-Tulle,140,162,189,556,Rolls,Rainy,Formal,High
+141,Polyester-Silk,105,117,139,474,Kilograms,Summer,Sportswear,Medium
+142,Polyester-Linen,156,176,206,325,Kilograms,Summer,Casual,High
+143,Polyester-Wool,130,141,156,318,Kilograms,Summer,Formal,High
+144,Polyester-Rayon,170,185,202,376,Kilograms,All-Season,Sportswear,Low
+145,Polyester-Bamboo,123,148,173,264,Rolls,Rainy,Workwear,Low
+146,Polyester-Tencel,60,70,84,391,Meters,Summer,Workwear,High
+147,Polyester-Modal,58,72,97,299,Rolls,Winter,Formal,Low
+148,Polyester-Spandex,139,157,175,356,Rolls,Winter,Ethnic,High
+149,Polyester-Lyocell,102,115,142,304,Kilograms,Winter,Sportswear,Low
+150,Polyester-Viscose,168,189,216,437,Rolls,Winter,Formal,High
+151,Polyester-Jute,103,121,135,501,Meters,All-Season,Sportswear,Low
+152,Polyester-Ramie,68,90,104,352,Rolls,Summer,Formal,Medium
+153,Polyester-Chiffon,187,211,232,510,Meters,Rainy,Ethnic,High
+154,Polyester-Cashmere,188,213,231,360,Kilograms,Rainy,Formal,High
+155,Polyester-Angora,162,187,215,209,Kilograms,Winter,Ethnic,High
+156,Polyester-Velvet,158,174,198,210,Kilograms,All-Season,Formal,Medium
+157,Polyester-Flannel,56,73,103,512,Kilograms,All-Season,Sportswear,High
+158,Polyester-Fleece,170,177,201,437,Meters,Rainy,Formal,Low
+159,Polyester-Jacquard,162,186,205,343,Meters,Rainy,Formal,Medium
+160,Polyester-Gabardine,163,184,201,588,Meters,Rainy,Formal,Medium
+161,Polyester-Corduroy,115,127,145,251,Rolls,Winter,Casual,Low
+162,Polyester-Denim,137,150,164,475,Rolls,Summer,Formal,Medium
+163,Polyester-Tweed,113,137,154,410,Meters,Rainy,Workwear,Low
+164,Polyester-Crepe,193,217,234,396,Meters,Summer,Workwear,Medium
+165,Polyester-Georgette,55,67,88,430,Rolls,Summer,Formal,High
+166,Polyester-Seersucker,176,185,209,469,Rolls,Winter,Formal,Low
+167,Polyester-Poplin,127,152,166,253,Rolls,Winter,Sportswear,High
+168,Polyester-Sateen,115,128,153,369,Meters,Rainy,Formal,Low
+169,Polyester-Duck Cloth,108,120,147,421,Meters,All-Season,Workwear,Low
+170,Polyester-Ripstop,159,178,192,229,Kilograms,All-Season,Workwear,High
+171,Polyester-Broadcloth,83,97,123,587,Rolls,Winter,Workwear,High
+172,Polyester-Batiste,187,203,216,225,Rolls,Summer,Workwear,High
+173,Polyester-Muslin,117,129,148,477,Kilograms,Summer,Ethnic,High
+174,Polyester-Taffeta,136,143,162,352,Meters,Winter,Sportswear,Medium
+175,Polyester-Shantung,130,148,178,444,Rolls,Summer,Workwear,Low
+176,Polyester-Velour,196,207,234,373,Meters,Winter,Sportswear,Low
+177,Polyester-Satin,194,208,223,276,Kilograms,Rainy,Workwear,High
+178,Polyester-Tulle,81,101,111,354,Meters,Winter,Sportswear,High
+179,Silk-Wool,50,71,87,591,Meters,Summer,Ethnic,Low
+180,Silk-Linen,107,120,144,549,Rolls,Rainy,Sportswear,Medium
+181,Silk-Rayon,172,194,214,344,Meters,Winter,Ethnic,High
+182,Silk-Bamboo,119,142,162,353,Kilograms,Rainy,Ethnic,High
+183,Silk-Tencel,96,107,126,337,Rolls,Rainy,Formal,Low
+184,Silk-Modal,100,112,129,226,Rolls,Rainy,Sportswear,Medium
+185,Silk-Spandex,58,70,100,582,Meters,All-Season,Sportswear,High
+186,Silk-Lyocell,97,113,130,314,Rolls,Winter,Formal,Medium
+187,Silk-Viscose,179,200,210,345,Meters,Winter,Formal,High
+188,Silk-Jute,109,123,146,285,Meters,All-Season,Sportswear,High
+189,Silk-Ramie,65,79,100,347,Meters,All-Season,Casual,Medium
+190,Silk-Chiffon,120,128,146,485,Meters,Winter,Sportswear,Low
+191,Silk-Cashmere,193,204,224,240,Kilograms,Summer,Sportswear,Low
+192,Silk-Angora,188,199,218,260,Rolls,Winter,Casual,Medium
+193,Silk-Velvet,57,67,90,592,Rolls,Rainy,Workwear,High
+194,Silk-Flannel,107,116,139,490,Rolls,Summer,Workwear,Low
+195,Silk-Fleece,107,114,126,486,Meters,Summer,Sportswear,Medium
+196,Silk-Jacquard,62,87,114,470,Kilograms,Summer,Workwear,Low
+197,Silk-Gabardine,163,175,187,547,Kilograms,All-Season,Formal,High
+198,Silk-Corduroy,145,158,182,287,Kilograms,Winter,Casual,High
+199,Silk-Denim,57,72,82,278,Rolls,Winter,Workwear,Low
+200,Silk-Tweed,140,156,183,381,Rolls,Winter,Ethnic,Medium
+201,Silk-Crepe,120,135,150,550,Meters, Summer, Formal, High
+202,Silk-Georgette,110,125,140,530,Meters, Summer, Ethnic, High
+203,Silk-Seersucker,130,145,160,560,Meters, Summer, Casual, High
+204,Silk-Poplin,140,155,170,580,Meters, Summer, Formal, High
+205,Silk-Sateen,125,140,155,600,Meters, Summer, Ethnic, High
+206,Silk-Duck Cloth,100,115,130,450,Meters, All-Season, Casual, Medium
+207,Silk-Ripstop,95,110,125,480,Meters, All-Season, Casual, Medium
+208,Silk-Broadcloth,110,125,140,520,Meters, Summer, Formal, High
+209,Silk-Batiste,85,100,115,490,Meters, Summer, Casual, Medium
+210,Silk-Muslin,75,90,105,470,Meters, Summer, Casual, Medium
+211,Silk-Taffeta,130,145,160,580,Meters, Winter, Formal, High
+212,Silk-Shantung,120,135,150,550,Meters, Winter, Ethnic, High
+213,Silk-Velour,110,125,140,570,Meters, Winter, Casual, High
+214,Silk-Satin,150,165,180,620,Meters, All-Season, Formal, High
+215,Silk-Tulle,95,110,130,540,Meters, Summer, Ethnic, High
+216,Linen-Wool,125,140,155,450,Meters, Winter, Formal, Medium
+217,Linen-Rayon,105,120,135,420,Meters, Summer, Casual, Medium
+218,Linen-Bamboo,115,130,145,430,Meters, Summer, Casual, Medium
+219,Linen-Tencel,135,150,165,470,Meters, Summer, Casual, Medium
+220,Linen-Modal,90,105,120,410,Meters, Summer, Casual, Medium
+221,Linen-Spandex,110,125,140,430,Meters, All-Season, Sportswear, Medium
+222,Linen-Lyocell,100,115,130,440,Meters, Summer, Casual, Medium
+223,Linen-Viscose,140,155,170,460,Meters, Summer, Formal, Medium
+224,Linen-Jute,85,100,115,400,Meters, Summer, Casual, Low
+225,Linen-Ramie,95,110,130,420,Meters, Summer, Casual, Medium
+226,Linen-Chiffon,110,125,140,450,Meters, Summer, Ethnic, High
+227,Linen-Cashmere,130,145,160,510,Meters, Winter, Formal, High
+228,Linen-Angora,115,130,145,520,Meters, Winter, Casual, High
+229,Linen-Velvet,125,140,155,530,Meters, Winter, Formal, High
+230,Linen-Flannel,140,155,170,480,Meters, Winter, Casual, Medium
+231,Linen-Fleece,90,105,120,460,Meters, Winter, Casual, Medium
+232,Linen-Jacquard,120,135,150,490,Meters, All-Season, Formal, High
+233,Linen-Gabardine,100,115,130,470,Meters, Winter, Formal, Medium
+234,Linen-Corduroy,110,125,140,450,Meters, Winter, Casual, Medium
+235,Linen-Denim,140,155,170,480,Meters, All-Season, Casual, Medium
+236,Linen-Tweed,130,145,160,500,Meters, Winter, Formal, High
+237,Linen-Crepe,110,125,140,470,Meters, All-Season, Formal, Medium
+238,Linen-Georgette,120,135,150,460,Meters, Summer, Ethnic, High
+239,Linen-Seersucker,90,105,120,430,Meters, Summer, Casual, Medium
+240,Linen-Poplin,125,140,155,450,Meters, Summer, Formal, Medium
+241,Linen-Sateen,135,150,165,480,Meters, Summer, Formal, Medium
+242,Linen-Duck Cloth,95,110,125,400,Meters, All-Season, Casual, Low
+243,Linen-Ripstop,100,115,130,410,Meters, All-Season, Casual, Medium
+244,Linen-Broadcloth,140,155,170,460,Meters, Summer, Formal, Medium
+245,Linen-Batiste,110,125,140,420,Meters, Summer, Casual, Medium
+246,Linen-Muslin,85,100,115,400,Meters, Summer, Casual, Low
+247,Linen-Taffeta,130,145,160,480,Meters, Winter, Formal, High
+248,Linen-Shantung,120,135,150,490,Meters, Winter, Ethnic, High
+249,Linen-Velour,110,125,140,470,Meters, Winter, Casual, High
+250,Linen-Satin,150,165,180,520,Meters, All-Season, Formal, High
+251,Linen-Tulle,95,110,130,490,Meters, Summer, Ethnic, High
+252,Wool-Rayon,125,140,155,440,Meters, Winter, Casual, Medium
+253,Wool-Bamboo,105,120,135,410,Meters, Winter, Casual, Medium
+254,Wool-Tencel,115,130,145,430,Meters, Winter, Casual, Medium
+255,Wool-Modal,135,150,165,470,Meters, Winter, Casual, Medium
+256,Wool-Spandex,90,105,120,460,Meters, All-Season, Sportswear, Medium
+257,Wool-Lyocell,110,125,140,430,Meters, Winter, Casual, Medium
+258,Wool-Viscose,100,115,130,450,Meters, Winter, Formal, Medium
+259,Wool-Jute,140,155,170,470,Meters, Winter, Casual, Medium
+260,Wool-Ramie,85,100,115,400,Meters, Winter, Casual, Low
+261,Wool-Chiffon,110,125,140,450,Meters, Winter, Ethnic, High
+262,Wool-Cashmere,130,145,160,510,Meters, Winter, Formal, High
+263,Wool-Angora,115,130,145,520,Meters, Winter, Casual, High
+264,Wool-Velvet,125,140,155,530,Meters, Winter, Formal, High
+265,Wool-Flannel,140,155,170,480,Meters, Winter, Casual, Medium
+266,Wool-Fleece,90,105,120,460,Meters, Winter, Casual, Medium
+267,Wool-Jacquard,120,135,150,490,Meters, Winter, Formal, High
+268,Wool-Gabardine,100,115,130,470,Meters, Winter, Formal, Medium
+269,Wool-Corduroy,110,125,140,450,Meters, Winter, Casual, Medium
+270,Wool-Denim,140,155,170,480,Meters, All-Season, Casual, Medium
+271,Wool-Tweed,130,145,160,500,Meters, Winter, Formal, High
+272,Wool-Crepe,110,125,140,470,Meters, All-Season, Formal, Medium
+273,Wool-Georgette,120,135,150,460,Meters, Winter, Ethnic, High
+274,Wool-Seersucker,90,105,120,430,Meters, Winter, Casual, Medium
+275,Wool-Poplin,125,140,155,450,Meters, Winter, Formal, Medium
+276,Wool-Sateen,135,150,165,480,Meters, Winter, Formal, Medium
+277,Wool-Duck Cloth,95,110,125,400,Meters, All-Season, Casual, Low
+278,Wool-Ripstop,100,115,130,410,Meters, All-Season, Casual, Medium
+279,Wool-Broadcloth,140,155,170,460,Meters, Winter, Formal, Medium
+280,Wool-Batiste,110,125,140,420,Meters, Winter, Casual, Medium
+281,Wool-Muslin,85,100,115,400,Meters, Winter, Casual, Low
+282,Wool-Taffeta,130,145,160,480,Meters, Winter, Formal, High
+283,Wool-Shantung,120,135,150,490,Meters, Winter, Ethnic, High
+284,Wool-Velour,110,125,140,470,Meters, Winter, Casual, High
+285,Wool-Satin,110,125,140,460,Meters,All-Season,Formal,High  
+286,Wool-Tulle,95,110,125,320,Meters,Summer,Ethnic,High  
+287,Rayon-Bamboo,130,145,160,380,Meters,Summer,Casual,Medium  
+288,Rayon-Tencel,140,155,170,410,Meters,Summer,Casual,Medium  
+289,Rayon-Modal,120,135,150,350,Meters,All-Season,Formal,Medium  
+290,Rayon-Spandex,100,115,130,340,Meters,All-Season,Sportswear,Medium  
+291,Rayon-Lyocell,90,105,120,370,Meters,Summer,Casual,Medium  
+292,Rayon-Viscose,110,125,140,390,Meters,Summer,Casual,Medium  
+293,Rayon-Jute,85,100,115,310,Meters,Summer,Casual,Low  
+294,Rayon-Ramie,95,110,125,320,Meters,Summer,Casual,Low  
+295,Rayon-Chiffon,105,120,135,330,Meters,Summer,Ethnic,High  
+296,Rayon-Cashmere,75,90,105,550,Kilograms,Winter,Formal,High  
+297,Rayon-Angora,80,95,110,530,Kilograms,Winter,Casual,High  
+298,Rayon-Velvet,90,105,120,500,Kilograms,Winter,Ethnic,High  
+299,Rayon-Flannel,125,140,160,420,Meters,Winter,Casual,Medium  
+300,Rayon-Fleece,130,145,165,430,Meters,Winter,Casual,Medium  
+301,Rayon-Jacquard,110,125,140,380,Meters,All-Season,Formal,Medium
+302,Rayon-Gabardine,95,110,125,360,Meters,Winter,Formal,Medium
+303,Rayon-Corduroy,130,145,160,400,Meters,Winter,Casual,Medium
+304,Rayon-Denim,180,195,210,420,Rolls,All-Season,Casual,Medium
+305,Rayon-Tweed,150,165,185,450,Meters,Winter,Formal,High
+306,Rayon-Crepe,100,115,130,370,Meters,All-Season,Formal,High
+307,Rayon-Georgette,140,155,170,480,Meters,Summer,Ethnic,High
+308,Rayon-Seersucker,95,110,130,350,Meters,Summer,Casual,Medium
+309,Rayon-Poplin,120,135,150,320,Meters,All-Season,Casual,Low
+310,Rayon-Sateen,110,125,140,390,Meters,All-Season,Formal,High
+311,Rayon-Duck Cloth,85,100,115,340,Meters,All-Season,Casual,Low
+312,Rayon-Ripstop,100,115,130,410,Meters,All-Season,Sportswear,Medium
+313,Rayon-Broadcloth,130,145,160,370,Meters,All-Season,Formal,Medium
+314,Rayon-Batiste,95,110,125,300,Meters,Summer,Casual,Low
+315,Rayon-Muslin,140,155,175,290,Meters,Summer,Casual,Low
+316,Rayon-Taffeta,110,125,140,400,Meters,All-Season,Formal,High
+317,Rayon-Shantung,85,100,120,430,Meters,All-Season,Formal,High
+318,Rayon-Velour,75,85,100,500,Meters,Winter,Ethnic,High
+319,Rayon-Satin,160,175,190,520,Meters,All-Season,Formal,High
+320,Rayon-Tulle,95,110,130,480,Meters,Summer,Ethnic,High
+321,Bamboo-Tencel,110,125,140,350,Meters,Summer,Casual,Medium
+322,Bamboo-Modal,120,135,150,370,Meters,Summer,Formal,Medium
+323,Bamboo-Spandex,85,100,115,390,Meters,All-Season,Sportswear,Medium
+324,Bamboo-Lyocell,130,145,160,400,Meters,Summer,Casual,Medium
+325,Bamboo-Viscose,95,110,130,420,Meters,Summer,Casual,Medium
+326,Bamboo-Jute,140,155,170,310,Meters,Summer,Casual,Low
+327,Bamboo-Ramie,110,125,140,450,Meters,Summer,Casual,Medium
+328,Bamboo-Chiffon,100,115,130,490,Meters,Summer,Ethnic,High
+329,Bamboo-Cashmere,75,85,100,530,Kilograms,Winter,Formal,High
+330,Bamboo-Angora,85,100,115,520,Kilograms,Winter,Casual,High
+331,Bamboo-Velvet,150,165,185,550,Kilograms,Winter,Ethnic,High
+332,Bamboo-Flannel,130,145,160,360,Meters,Winter,Casual,Medium
+333,Bamboo-Fleece,140,155,170,370,Meters,Winter,Casual,Medium
+334,Bamboo-Jacquard,120,135,150,390,Meters,All-Season,Formal,Medium
+335,Bamboo-Gabardine,95,110,130,380,Meters,Winter,Formal,Medium
+336,Bamboo-Corduroy,130,145,160,410,Meters,Winter,Casual,Medium
+337,Bamboo-Denim,180,195,210,430,Rolls,All-Season,Casual,Medium
+338,Bamboo-Tweed,150,165,185,460,Meters,Winter,Formal,High
+339,Bamboo-Crepe,100,115,130,380,Meters,All-Season,Formal,High
+340,Bamboo-Georgette,140,155,170,470,Meters,Summer,Ethnic,High
+341,Bamboo-Seersucker,95,110,130,340,Meters,Summer,Casual,Medium
+342,Bamboo-Poplin,120,135,150,310,Meters,All-Season,Casual,Low
+343,Bamboo-Sateen,110,125,140,380,Meters,All-Season,Formal,High
+344,Bamboo-Duck Cloth,85,100,115,320,Meters,All-Season,Casual,Low
+345,Bamboo-Ripstop,100,115,130,400,Meters,All-Season,Sportswear,Medium
+346,Bamboo-Broadcloth,130,145,160,360,Meters,All-Season,Formal,Medium
+347,Bamboo-Batiste,95,110,125,290,Meters,Summer,Casual,Low
+348,Bamboo-Muslin,140,155,175,280,Meters,Summer,Casual,Low
+349,Bamboo-Taffeta,110,125,140,420,Meters,All-Season,Formal,High
+350,Bamboo-Shantung,85,100,120,440,Meters,All-Season,Formal,High
+351,Artificial Silk,95,110,130,480,Meters,All-Season,Formal,High
+352,Aramid Fabric,140,155,170,520,Meters,All-Season,Sportswear,High
+353,Beaded Fabric,110,125,140,550,Meters,Summer,Ethnic,High
+354,Bourette Silk,75,85,100,500,Meters,Winter,Ethnic,High
+355,Burlap,180,195,210,250,Meters,All-Season,Casual,Low
+356,Cambric,130,145,160,270,Meters,Summer,Casual,Low
+357,Cire Fabric,95,110,125,480,Meters,All-Season,Formal,High
+358,Coir Fabric,100,115,130,310,Meters,All-Season,Casual,Low
+359,Coated Fabric,85,100,115,450,Meters,All-Season,Sportswear,Medium
+360,Corded Fabric,140,155,170,400,Meters,Winter,Casual,Medium
+361,Dobby Weave,110,125,140,390,Meters,All-Season,Formal,Medium
+362,Double Cloth,120,135,150,420,Meters,Winter,Formal,Medium
+363,Double Knit,95,110,130,450,Meters,Winter,Casual,Medium
+364,Drill Cotton,100,115,130,370,Meters,All-Season,Casual,Low
+365,Duck Canvas,85,100,115,340,Meters,All-Season,Casual,Low
+366,Embossed Fabric,130,145,160,480,Meters,All-Season,Formal,High
+367,Ethnic Print Fabric,140,155,170,500,Meters,Summer,Ethnic,High
+368,Faux Fur,110,125,140,550,Meters,Winter,Ethnic,High
+369,Faux Leather,75,85,100,600,Meters,Winter,Formal,High
+370,Faux Suede,95,110,130,540,Meters,Winter,Formal,High
+371,Feather Fabric,140,155,170,580,Meters,All-Season,Ethnic,High
+372,Filament Yarn,110,125,140,370,Meters,All-Season,Casual,Medium
+373,Fishnet Fabric,85,100,115,320,Meters,All-Season,Sportswear,Low
+374,Glazed Cotton,120,135,150,410,Meters,All-Season,Formal,Medium
+375,Handloom Fabric,95,110,130,450,Meters,All-Season,Ethnic,High
+376,Heat-Resistant Fabric,140,155,170,550,Meters,All-Season,Sportswear,High
+377,Kevlar Fabric,95,110,130,600,Meters,All-Season,Sportswear,High
+378,Leather,180,195,210,800,Meters,Winter,Formal,High
+379,Mesh Fabric,110,125,140,370,Meters,All-Season,Sportswear,Medium
+380,Metal Fabric,95,110,130,500,Meters,All-Season,Formal,High
+381,High-Twist Yarn Fabric,120,135,150,390,Meters,All-Season,Formal,Medium
+382,Honeycomb Fabric,140,155,170,410,Meters,All-Season,Casual,Medium
+383,Laminated Fabric,110,125,140,430,Meters,All-Season,Casual,Medium
+384,Mixed Fiber Fabric,130,145,160,420,Meters,All-Season,Casual,Medium
+385,Monofilament Fabric,95,110,130,380,Meters,All-Season,Sportswear,Medium
+386,Nylon,180,195,210,450,Meters,All-Season,Formal,Medium
+387,Nylon Mesh,120,135,150,370,Meters,All-Season,Sportswear,Medium
+388,Oilskin Fabric,140,155,170,460,Meters,All-Season,Outdoor,High
+389,Open Weave Fabric,110,125,140,390,Meters,All-Season,Casual,Medium
+390,Overdyed Fabric,85,100,115,350,Meters,All-Season,Casual,Low
+391,Paintable Fabric,100,115,130,410,Meters,All-Season,Casual,Medium
+392,Paper Fabric,75,85,100,320,Meters,All-Season,Casual,Low
+393,Plastic Fabric,95,110,130,430,Meters,All-Season,Industrial,Medium
+394,Plissé Weave,130,145,160,440,Meters,All-Season,Formal,Medium
+395,Polythene Fabric,85,100,115,300,Meters,All-Season,Industrial,Low
+396,Polyurethane Coated Fabric,140,155,170,500,Meters,All-Season,Outdoor,High
+397,Quilted Fabric,120,135,150,470,Meters,Winter,Casual,Medium
+398,Raschel Knit Fabric,110,125,140,380,Meters,All-Season,Formal,Medium
+399,Reinforced Fabric,95,110,130,420,Meters,All-Season,Industrial,Medium
+400,Resin-Coated Fabric,100,115,130,450,Meters,All-Season,Industrial,Medium
+401,Resin-Coated Fabric,150,170,190,450,Meters,All-Season,Formal,High
+402,Vinyl-Coated Polyester,130,145,160,380,Meters,All-Season,Casual,Medium
+403,PVC-Coated Fabric,110,125,140,320,Meters,All-Season,Casual,Low
+404,Teflon-Coated Fabric,140,155,170,460,Meters,All-Season,Formal,High
+405,Acrylic-Coated Cotton,95,110,125,350,Meters,All-Season,Casual,Medium
+406,Fire-Resistant Wool,120,135,150,500,Kilograms,Winter,Formal,High
+407,UV-Resistant Nylon,160,175,195,300,Meters,Summer,Sportswear,Medium
+408,Waterproof Polyester,170,185,200,310,Meters,All-Season,Sportswear,Medium
+409,Oil-Resistant Canvas,85,100,115,280,Meters,All-Season,Casual,Low
+410,Waxed Cotton,105,120,135,350,Meters,All-Season,Casual,Medium
+411,Antibacterial Bamboo,130,145,160,430,Meters,All-Season,Casual,Medium
+412,Stain-Resistant Microfiber,140,155,175,500,Meters,All-Season,Sportswear,High
+413,Reflective Safety Fabric,180,200,220,390,Meters,All-Season,Workwear,Medium
+414,Heat-Resistant Kevlar,110,130,150,550,Meters,All-Season,Industrial,High
+415,Bulletproof Aramid Fabric,90,105,120,600,Meters,All-Season,Security,High
+416,Conductive Fabric,75,90,110,580,Meters,All-Season,Tech,High
+417,Anti-Static Polypropylene,95,110,130,310,Meters,All-Season,Workwear,Low
+418,Thermal Insulation Wool,140,155,170,490,Kilograms,Winter,Formal,High
+419,Lightweight Ripstop Nylon,170,185,200,340,Meters,All-Season,Outdoor,Medium
+420,High-Tenacity Polyester,160,175,190,320,Meters,All-Season,Sportswear,Medium
+421,Smart Textile with Sensors,85,95,110,620,Meters,All-Season,Tech,High
+422,Moisture-Wicking Polyester,110,125,140,350,Meters,Summer,Sportswear,Medium
+423,Silver-Coated Antibacterial Fabric,140,155,175,700,Meters,All-Season,Medical,High
+424,Phase-Change Cooling Fabric,130,145,160,580,Meters,Summer,Tech,High
+425,Water-Absorbent Microfiber,190,205,225,290,Meters,Summer,Casual,Medium
+426,High-Elasticity Spandex Blend,160,175,195,380,Meters,All-Season,Sportswear,Medium
+427,Weatherproof Neoprene,110,125,140,480,Meters,All-Season,Outdoor,High
+428,Non-Woven Polypropylene,85,100,120,270,Meters,All-Season,Workwear,Low
+429,UV-Blocking Lycra,130,145,160,390,Meters,Summer,Sportswear,Medium
+430,Carbon Fiber Reinforced Fabric,75,90,110,680,Meters,All-Season,Industrial,High
+431,Fiberglass Mesh,85,100,120,450,Meters,All-Season,Industrial,Medium
+432,High-Density Memory Foam Fabric,95,110,130,520,Meters,All-Season,Home Decor,High
+433,Laminated Composite Fabric,110,125,140,490,Meters,All-Season,Industrial,High
+434,Eco-Friendly Tencel Blend,140,155,175,370,Meters,Summer,Casual,Medium
+435,Hemp-Cotton Organic Fabric,160,175,195,350,Meters,All-Season,Casual,Medium
+436,Bamboo-Silk Luxury Blend,110,125,140,600,Meters,All-Season,Formal,High
+437,Wool-Cashmere Deluxe Blend,85,100,120,720,Kilograms,Winter,Formal,High
+438,Merino Wool-Tencel Hybrid,95,110,130,490,Kilograms,Winter,Formal,High
+439,Jute-Rayon Natural Fiber Mix,75,90,110,320,Meters,Summer,Casual,Low
+440,Velvet-Chiffon Elegant Fabric,130,145,160,550,Meters,All-Season,Formal,High
+441,Satin-Brocade Formal Wear Fabric,85,100,120,590,Meters,All-Season,Formal,High
+442,Fleece-Polyester Durable Blend,160,175,190,340,Meters,Winter,Casual,Medium
+443,Piqué-Spandex Stretchable Fabric,95,110,130,420,Meters,All-Season,Sportswear,Medium
+444,Linen-Denim Vintage Style Fabric,120,135,150,390,Meters,All-Season,Casual,Medium
+445,Corduroy-Satin Hybrid Fabric,140,155,175,460,Meters,Winter,Casual,Medium
+446,Poplin-Georgette Light Fabric,130,145,160,380,Meters,Summer,Casual,Medium
+447,Gabardine-Wool Classic Suit Fabric,85,100,120,540,Meters,Winter,Formal,High
+448,Jacquard-Organza Royal Fabric,95,110,130,570,Meters,All-Season,Formal,High
+449,Taffeta-Velvet Opulent Fabric,110,125,140,490,Meters,All-Season,Formal,High
+450,Polynosic-Viscose Soft Fabric,130,145,160,410,Meters,All-Season,Casual,Medium
+451,Lyocell-Bamboo Sustainable Fabric,160,175,195,360,Meters,Summer,Casual,Medium
+452,Wool-Linen-Coated Winter Fabric,110,125,140,480,Kilograms,Winter,Formal,High
+453,Moisture-Proof Military Fabric,95,110,130,500,Meters,All-Season,Military,High
+454,Flame-Retardant Upholstery Fabric,140,155,170,550,Meters,All-Season,Home Decor,High
+455,Breathable 3D Air Mesh,160,175,195,320,Meters,All-Season,Sportswear,Medium
+456,Super-Stretch Activewear Fabric,110,125,140,390,Meters,All-Season,Sportswear,Medium
+457,Microfiber-Suede Ultra-Soft Fabric,140,155,175,430,Meters,All-Season,Home Decor,Medium
+458,Tulle-Silk Evening Wear Fabric,85,100,120,570,Meters,All-Season,Formal,High
+459,High-Performance Marathon Fabric,95,110,130,490,Meters,All-Season,Sportswear,High
+460,Ice-Cold Cooling Fabric,120,135,150,420,Meters,Summer,Tech,High
+461,Windproof Softshell Fabric,140,155,175,380,Meters,All-Season,Outdoor,Medium
+462,Thermal-Heated Smart Fabric,85,100,120,600,Meters,Winter,Tech,High
+463,Organic Muslin-Cotton Baby Fabric,130,145,160,350,Meters,Summer,Formal,Medium
+464,Modal-Satin Hybrid Sleepwear Fabric,95,110,130,460,Meters,All-Season,Sleepwear,Medium
+465,Wrinkle-Resistant Polyester,140,155,170,390,Meters,All-Season,Casual,Medium
+466,Embossed Leather-Style Fabric,160,175,190,500,Meters,All-Season,Sleepwear,High
+467,Carbon-Infused Athletic Fabric,110,125,140,470,Meters,All-Season,Sportswear,High
+468,Bio-Degradable Biopolymer Fabric,110,125,140,500,Meters,All-Season,Formal,High
+469,Water-Soluble Smart Fabric,100,115,130,480,Meters,All-Season,Casual,Medium
+470,Cork-Infused Vegan Leather,95,110,125,470,Meters,All-Season,Formal,High
+471,Silver-Thread Medical Fabric,105,120,135,520,Meters,All-Season,Medical,High
+472,Conductive Graphene Textile,90,105,120,550,Meters,All-Season,Tech,High
+473,Anti-Microbial Copper-Infused Fabric,125,140,155,490,Meters,All-Season,Medical,High
+474,Seaweed-Based Fabric,115,130,145,460,Meters,All-Season,Casual,Medium
+475,Algae-Derived Eco-Fabric,110,125,140,450,Meters,All-Season,Casual,Medium
+476,Glow-in-the-Dark Textile,105,120,135,430,Meters,All-Season,Sportswear,Medium
+477,LED-Embedded Interactive Fabric,120,135,150,600,Meters,All-Season,Tech,High
+478,Recycled Ocean Plastic Fabric,140,155,170,480,Meters,All-Season,Sportswear,Medium
+479,Thermochromic Color-Changing Fabric,130,145,160,510,Meters,All-Season,Tech,High
+480,Self-Healing Nano-Fabric,95,110,125,540,Meters,All-Season,Tech,High
+481,3D-Printed Custom Fabric,85,100,115,580,Meters,All-Season,Formal,High
+482,Electrospun Nanofiber Textile,90,105,120,530,Meters,All-Season,Medical,High
+483,Vegan Leather Alternative Fabric,100,115,130,490,Meters,All-Season,Formal,High
+484,Water-Reactive Pattern Fabric,110,125,140,470,Meters,All-Season,Casual,Medium
+485,Fragrance-Infused Perfume Fabric,115,130,145,460,Meters,All-Season,Ethnic,High
+486,Liquid-Repelling Lotus-Effect Fabric,120,135,150,550,Meters,All-Season,Outdoor,High
+487,Solar-Powered Charging Fabric,130,145,160,600,Meters,All-Season,Tech,High
+488,Invisible Camouflage Fabric,105,120,135,520,Meters,All-Season,Military,High
+489,Soundproof Acoustic Fabric,110,125,140,580,Meters,All-Season,Home Decor,High
+490,Ultra-Lightweight Parachute Fabric,140,155,170,490,Meters,All-Season,Outdoor,Medium
+491,Climate-Adaptive Fabric,135,150,165,550,Meters,All-Season,Tech,High
+492,Self-Cleaning Hydrophobic Fabric,120,135,150,500,Meters,All-Season,Outdoor,Medium
+493,Bullet-Absorbing Gel Fabric,125,140,155,650,Meters,All-Season,Military,High
+494,Shape-Memory Smart Fabric,130,145,160,600,Meters,All-Season,Tech,High
+495,Artificial Spider Silk High-Strength Fabric,115,130,145,700,Meters,All-Season,Tech,High
+496,Super-Insulated Arctic Survival Fabric,110,125,140,750,Meters,Winter,Outdoor,High
+497,Flexible OLED-Embedded Display Fabric,95,110,125,800,Meters,All-Season,Tech,High
+498,Anti-Radiation Protective Fabric,85,100,115,720,Meters,All-Season,Medical,High
+499,NASA-Inspired Space Suit Fabric,100,115,130,900,Meters,All-Season,Space,High
+500,Future Tech Biodegradable Fabric,110,125,140,850,Meters,All-Season,Tech,High

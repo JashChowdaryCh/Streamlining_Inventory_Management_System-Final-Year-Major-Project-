@@ -1,0 +1,501 @@
+ID,"	Fabric Type","	Stock Available","	Price per Unit",Unit Type
+1,"	Cotton","	150","	250","	Rolls"
+2,"	Polyester","	180","	180","	Rolls"
+3,"	Silk","	90","	500","	Meters"
+4,"	Linen","	75","	350","	Meters"
+5,"	Wool","	130","	400","	Kilograms"
+6,"	Denim","	200","	300","	Rolls"
+7,"	Rayon","	95","	280", Rolls
+8,"	Velvet","	85","	550","	Kilograms"
+9,"	Chiffon","	160","	200","	Meters"
+10,"	Satin","	140","	450","	Meters"
+11,"	Hemp","	170","	270","	Rolls"
+12,"	Jute","	140","	190","	Kilograms"
+13,Ramie,"	100","	520","	Meters"
+14," 	Bamboo Fabric","	80","	360","	Meters"
+15,Modal,"	120","	390","	Meters"
+16,"	Tencel","	195","	310","	Meters"
+17,"	Cashmere","	85","	550","	Kilograms"
+18,"	Mohair","	95","	540","	Kilograms"
+19,"	Alpaca","	155","	210","	Kilograms"
+20,"	Angora","	135","	460","	Kilograms"
+21,"	Lace","	145","	270","	Meters"
+22,"	Organza","	160","	200","	Meters"
+23,"	Tweed","	85","	480","	Meters"
+24,"	Gabardine","	95","	340","	Meters"
+25,"	Georgette","	110","	410","	Meters"
+26,Taffeta,"	185","	320","	Meters"
+27,"	Canvas","	120","	300","	Meters"
+28,"	Tulle","	105","	560","	Meters"
+29,"	Muslin","	165","	190","	Meters"
+30,"	Chambray","	125","	470","	Meters"
+31,"	Voile","	130","	280","	Meters"
+32,"	Seersucker","	175","	170","	Meters"
+33,"	Tartan","	105","	510","	Meters"
+34,"	Brocade","	90","	330","	Meters"
+35,"	Crepe","	115","	420","	Meters"
+36,Flannel,"	195","	290","	Meters"
+37,"	Fleece","	115","	310","	Meters"
+38,"	Microfiber","	110","	570","	Meters"
+39,"	Gauze","	145","	230","	Meters"
+40,"	Spandex","	140","	440","	Meters"
+41,"	Neoprene","	160","	260","	Meters"
+42,"	Lyocell","	155","	210","	Meters"
+43,"	Cupro","	95","	490","	Meters"
+44,"	Jacquard","	100","	320","	Meters"
+45,"	Batiste","	125","	400","	Meters"
+46,"	Terrycloth","	175","	300","	Meters"
+47,"	Organdy","	105","	280","	Meters"
+48,"	Drill","	120","	530","	Meters"
+49,"	Corduroy","	170","	220","	Meters"
+50,"	Velour","	130","	480","	Meters"
+51,"	Poplin","	145","	270","	Meters"
+52,"	Khadi","	155","	210","	Meters"
+53,"	Damask","	85","	480","	Meters"
+54,"	Melton","	120","	340","	Meters"
+55,"	Herringbone","	100","	410","	Meters"
+56,"	Sateen","	190","	320","	Meters"
+57,"	Duck Cloth","	130","	280","	Meters"
+58,"	Piqué","	105","	560","	Meters"
+59,"	Serge","	115","	190","	Meters"
+60,"	Suede","	165","	470","	Meters"
+61,"	Oilcloth","	140","	290","	Meters"
+62,"	Cavalry Twill","	195","	310","	Meters"
+63,"	Ripstop","	115","	270","	Meters"
+64,"	Challis","	110","	420","	Meters"
+65,"	Polynosic","	145","	230","	Meters"
+66,"	Faille","	140","	440","	Meters"
+67,"	Fustian","	160","	260","	Meters"
+68,"	Melange","	155","	210","	Meters"
+69,"	Loden","	95","	490","	Meters"
+70,"	Plissé","	100","	320","	Meters"
+71,"	Shantung","	125","	400","	Meters"
+72,"	Broadcloth","	175","	300","	Meters"
+73,"	Matelassé","	105","	280","	Meters"
+74,"	Birdseye","	120","	530","	Meters"
+75,"	Bark Cloth","	170","	220","	Meters"
+76,"	Pointelle","	130","	480","	Meters"
+77,"	Whipcord","	145","	270","	Meters"
+78,"	Hopsack","	155","	210","	Meters"
+79,"	Lame","	85","	480","	Meters"
+80,"	Moleskin","	120","	340","	Meters"
+81,"	Venetian","	100","	410",Meters
+82,"	Sailcloth","	190","	320","	Meters"
+83,"	Eyelash Lace","	130","	280","	Meters"
+84,"	Gaboon","	105","	560","	Meters"
+85,"	Huckaback","	115","	190","	Meters"
+86,"	Stretch Satin","	165","	470","	Meters"
+87,"	Madras","	140","	290","	Meters"
+88,"	Sharkskin","	195","	310","	Meters"
+89,"	Crinoline","	115","	270","	Meters"
+90,"	Bouclé","	110","	420","	Meters"
+91,"	Basketweave","	145","	230","	Meters"
+92,"	Chenille","	140","	440","	Meters"
+93,"	Ottoman","	160","	260","	Meters"
+94,"	Velveteen","	155","	210","	Meters"
+95,"	Tweed Houndstooth","	95","	490","	Meters"
+96,"	Triple Cloth","	100","	320","	Meters"
+97,"	Warp Knits","	125","	400","	Meters"
+98,"	Merino Wool","	175","	300","	Meters"
+99,"	Felted Wool","	105","	280","	Meters"
+100,Charmeuse,"	120","	530","	Meters"
+101,Cotton-Polyester,"	150","	250","	Rolls"
+102,Cotton-Silk,"	180","	180","	Rolls"
+103,Cotton-Linen,"	90","	500","	Meters"
+104,Cotton-Wool,"	75","	350","	Meters"
+105,Cotton-Rayon,"	130","	400","	Kilograms"
+106,Cotton-Hemp,"	200","	300","	Rolls"
+107,Cotton-Bamboo,"	95","	280","	Rolls"
+108,Cotton-Tencel,"	85","	550","	Kilograms"
+109,Cotton-Modal,"	160","	200","	Meters"
+110,Cotton-Spandex,"	140","	450","	Meters"
+111,Cotton-Lyocell,"	170","	270","	Rolls"
+112,Cotton-Viscose,"	140","	190","	Kilograms"
+113,Cotton-Jute,"	100","	520","	Meters"
+114,Cotton-Ramie,"	80","	360","	Meters"
+115,Cotton-Chiffon,"	120","	390","	Meters"
+116,Cotton-Cashmere,"	195","	310","	Meters"
+117,Cotton-Angora,"	85","	550","	Kilograms"
+118,Cotton-Velvet,"	95","	540","	Kilograms"
+119,Cotton-Flannel,"	155","	210","	Kilograms"
+120,Cotton-Fleece,"	135","	460","	Kilograms"
+121,Cotton-Jacquard,"	145","	270","	Meters"
+122,Cotton-Gabardine,"	160","	200","	Meters"
+123,Cotton-Corduroy,"	85","	480","	Meters"
+124,Cotton-Denim,"	95","	340","	Meters"
+125,Cotton-Tweed,"	110","	410","	Meters"
+126,Cotton-Crepe,"	185","	320","	Meters"
+127,Cotton-Georgette,"	120","	300","	Meters"
+128,Cotton-Seersucker,"	105","	560","	Meters"
+129,Cotton-Poplin,"	165","	190","	Meters"
+130,Cotton-Sateen,"	125","	470","	Meters"
+131,Cotton-Duck Cloth,"	130","	280","	Meters"
+132,Cotton-Ripstop,"	175","	170","	Meters"
+133,Cotton-Broadcloth,"	105","	510","	Meters"
+134,Cotton-Batiste,"	90","	330","	Meters"
+135,Cotton-Muslin,"	115","	420","	Meters"
+136,Cotton-Taffeta,"	195","	290","	Meters"
+137,Cotton-Shantung,"	115","	310","	Meters"
+138,Cotton-Velour,"	110","	570","	Meters"
+139,Cotton-Satin,"	145","	230","	Meters"
+140,Cotton-Tulle,"	140","	440","	Meters"
+141,Polyester-Silk,"	160","	260","	Meters"
+142,Polyester-Linen,"	155","	210","	Meters"
+143,Polyester-Wool,"	95","	490","	Meters"
+144,Polyester-Rayon,"	100","	320","	Meters"
+145,Polyester-Bamboo,"	125","	400","	Meters"
+146,Polyester-Tencel,"	175","	300","	Meters"
+147,Polyester-Modal,"	105","	280","	Meters"
+148,Polyester-Spandex,"	120","	530","	Meters"
+149,Polyester-Lyocell,"	170","	220","	Meters"
+150,Polyester-Viscose,"	130","	480","	Meters"
+151,Polyester-Jute,"	145","	270","	Meters"
+152,Polyester-Ramie,"	155","	210","	Meters"
+153,Polyester-Chiffon,"	85","	480","	Meters"
+154,Polyester-Cashmere,"	120","	340","	Meters"
+155,Polyester-Angora,"	100","	410","	Meters"
+156,Polyester-Velvet,"	190","	320","	Meters"
+157,Polyester-Flannel,"	130","	280","	Meters"
+158,Polyester-Fleece,"	105","	560","	Meters"
+159,Polyester-Jacquard,"	115","	190","	Meters"
+160,Polyester-Gabardine,"	165","	470","	Meters"
+161,Polyester-Corduroy,"	140","	290","	Meters"
+162,Polyester-Denim,"	195","	310","	Meters"
+163,Polyester-Tweed,"	115","	270","	Meters"
+164,Polyester-Crepe,"	110","	420","	Meters"
+165,Polyester-Georgette,"	145","	230","	Meters"
+166,Polyester-Seersucker,"	140","	440","	Meters"
+167,Polyester-Poplin,"	160","	260","	Meters"
+168,Polyester-Sateen,"	155","	210","	Meters"
+169,Polyester-Duck Cloth,"	95","	490","	Meters"
+170,Polyester-Ripstop,"	100","	320","	Meters"
+171,Polyester-Broadcloth,"	125","	400","	Meters"
+172,Polyester-Batiste,"	175","	300","	Meters"
+173,Polyester-Muslin,"	105","	280","	Meters"
+174,Polyester-Taffeta,"	120","	530","	Meters"
+175,Polyester-Shantung,"	170","	220","	Meters"
+176,Polyester-Velour,"	130","	480","	Meters"
+177,Polyester-Satin,"	145","	270","	Meters"
+178,Polyester-Tulle,"	155","	210","	Meters"
+179,Silk-Wool,"	85","	480","	Meters"
+180,Silk-Linen,"	120","	340","	Meters"
+181,Silk-Rayon,"	100","	410","	Meters"
+182,Silk-Bamboo,"	190","	320","	Meters"
+183,Silk-Tencel,"	130","	280","	Meters"
+184,Silk-Modal,"	105","	560","	Meters"
+185,Silk-Spandex,"	115","	190","	Meters"
+186,Silk-Lyocell,"	165","	470","	Meters"
+187,Silk-Viscose,"	140","	290","	Meters"
+188,Silk-Jute,"	195","	310","	Meters"
+189,Silk-Ramie,"	115","	270","	Meters"
+190,Silk-Chiffon,"	110","	420","	Meters"
+191,Silk-Cashmere,"	145","	230","	Meters"
+192,Silk-Angora,"	140","	440","	Meters"
+193,Silk-Velvet,"	160","	260","	Meters"
+194,Silk-Flannel,"	155","	210","	Meters"
+195,Silk-Fleece,"	95","	490","	Meters"
+196,Silk-Jacquard,"	100","	320","	Meters"
+197,Silk-Gabardine,"	125","	400","	Meters"
+198,Silk-Corduroy,"	175","	300","	Meters"
+199,Silk-Denim,"	105","	280","	Meters"
+200,Silk-Tweed,"	120","	530","	Meters"
+201,Silk-Crepe,150,250,Meters
+202,Silk-Georgette,180,180,Meters
+203,Silk-Seersucker,90,500,Meters
+204,Silk-Poplin,75,350,Meters
+205,Silk-Sateen,130,400,Meters
+206,Silk-Duck Cloth,200,300,Meters
+207,Silk-Ripstop,95,280,Meters
+208,Silk-Broadcloth,85,550,Meters
+209,Silk-Batiste,160,200,Meters
+210,Silk-Muslin,140,450,Meters
+211,Silk-Taffeta,170,270,Meters
+212,Silk-Shantung,140,190,Meters
+213,Silk-Velour,100,520,Meters
+214,Silk-Satin,80,360,Meters
+215,Silk-Tulle,120,390,Meters
+216,Linen-Wool,195,310,Meters
+217,Linen-Rayon,85,550,Meters
+218,Linen-Bamboo,95,540,Meters
+219,Linen-Tencel,155,210,Meters
+220,Linen-Modal,135,460,Meters
+221,Linen-Spandex,145,270,Meters
+222,Linen-Lyocell,160,200,Meters
+223,Linen-Viscose,85,480,Meters
+224,Linen-Jute,95,340,Meters
+225,Linen-Ramie,110,410,Meters
+226,Linen-Chiffon,185,320,Meters
+227,Linen-Cashmere,120,300,Meters
+228,Linen-Angora,105,560,Meters
+229,Linen-Velvet,165,190,Meters
+230,Linen-Flannel,125,470,Meters
+231,Linen-Fleece,130,280,Meters
+232,Linen-Jacquard,175,170,Meters
+233,Linen-Gabardine,105,510,Meters
+234,Linen-Corduroy,90,330,Meters
+235,Linen-Denim,115,420,Meters
+236,Linen-Tweed,195,290,Meters
+237,Linen-Crepe,115,310,Meters
+238,Linen-Georgette,110,570,Meters
+239,Linen-Seersucker,145,230,Meters
+240,Linen-Poplin,140,440,Meters
+241,Linen-Sateen,160,260,Meters
+242,Linen-Duck Cloth,155,210,Meters
+243,Linen-Ripstop,95,490,Meters
+244,Linen-Broadcloth,100,320,Meters
+245,Linen-Batiste,125,400,Meters
+246,Linen-Muslin,175,300,Meters
+247,Linen-Taffeta,105,280,Meters
+248,Linen-Shantung,120,530,Meters
+249,Linen-Velour,170,220,Meters
+250,Linen-Satin,130,480,Meters
+251,Linen-Tulle,145,270,Meters
+252,Wool-Rayon,155,210,Meters
+253,Wool-Bamboo,85,480,Meters
+254,Wool-Tencel,120,340,Meters
+255,Wool-Modal,100,410,Meters
+256,Wool-Spandex,190,320,Meters
+257,Wool-Lyocell,130,280,Meters
+258,Wool-Viscose,105,560,Meters
+259,Wool-Jute,115,190,Meters
+260,Wool-Ramie,165,470,Meters
+261,Wool-Chiffon,140,290,Meters
+262,Wool-Cashmere,195,310,Meters
+263,Wool-Angora,115,270,Meters
+264,Wool-Velvet,110,420,Meters
+265,Wool-Flannel,145,230,Meters
+266,Wool-Fleece,140,440,Meters
+267,Wool-Jacquard,160,260,Meters
+268,Wool-Gabardine,155,210,Meters
+269,Wool-Corduroy,95,490,Meters
+270,Wool-Denim,100,320,Meters
+271,Wool-Tweed,125,400,Meters
+272,Wool-Crepe,175,300,Meters
+273,Wool-Georgette,105,280,Meters
+274,Wool-Seersucker,120,530,Meters
+275,Wool-Poplin,170,220,Meters
+276,Wool-Sateen,130,480,Meters
+277,Wool-Duck Cloth,145,270,Meters
+278,Wool-Ripstop,155,210,Meters
+279,Wool-Broadcloth,85,480,Meters
+280,Wool-Batiste,120,340,Meters
+281,Wool-Muslin,100,410,Meters
+282,Wool-Taffeta,190,320,Meters
+283,Wool-Shantung,130,280,Meters
+284,Wool-Velour,105,560,Meters
+285,Wool-Satin,115,190,Meters
+286,Wool-Tulle,165,470,Meters
+287,Rayon-Bamboo,140,290,Meters
+288,Rayon-Tencel,195,310,Meters
+289,Rayon-Modal,115,270,Meters
+290,Rayon-Spandex,110,420,Meters
+291,Rayon-Lyocell,145,230,Meters
+292,Rayon-Viscose,140,440,Meters
+293,Rayon-Jute,160,260,Meters
+294,Rayon-Ramie,155,210,Meters
+295,Rayon-Chiffon,95,490,Meters
+296,Rayon-Cashmere,100,320,Meters
+297,Rayon-Angora,125,400,Meters
+298,Rayon-Velvet,175,300,Meters
+299,Rayon-Flannel,105,280,Meters
+300,Rayon-Fleece,120,530,Meters
+301,Rayon-Jacquard,150,250,Rolls
+302,Rayon-Gabardine,180,180,Rolls
+303,Rayon-Corduroy,90,500,Meters
+304,Rayon-Denim,75,350,Meters
+305,Rayon-Tweed,130,400,Kilograms
+306,Rayon-Crepe,200,300,Rolls
+307,Rayon-Georgette,95,280,Rolls
+308,Rayon-Seersucker,85,550,Kilograms
+309,Rayon-Poplin,160,200,Meters
+310,Rayon-Sateen,140,450,Meters
+311,Rayon-Duck Cloth,170,270,Rolls
+312,Rayon-Ripstop,140,190,Kilograms
+313,Rayon-Broadcloth,100,520,Meters
+314,Rayon-Batiste,80,360,Meters
+315,Rayon-Muslin,120,390,Meters
+316,Rayon-Taffeta,195,310,Meters
+317,Rayon-Shantung,85,550,Kilograms
+318,Rayon-Velour,95,540,Kilograms
+319,Rayon-Satin,155,210,Kilograms
+320,Rayon-Tulle,135,460,Kilograms
+321,Bamboo-Tencel,145,270,Meters
+322,Bamboo-Modal,160,200,Meters
+323,Bamboo-Spandex,85,480,Meters
+324,Bamboo-Lyocell,95,340,Meters
+325,Bamboo-Viscose,110,410,Meters
+326,Bamboo-Jute,185,320,Meters
+327,Bamboo-Ramie,120,300,Meters
+328,Bamboo-Chiffon,105,560,Meters
+329,Bamboo-Cashmere,165,190,Meters
+330,Bamboo-Angora,125,470,Meters
+331,Bamboo-Velvet,130,280,Meters
+332,Bamboo-Flannel,175,170,Meters
+333,Bamboo-Fleece,105,510,Meters
+334,Bamboo-Jacquard,90,330,Meters
+335,Bamboo-Gabardine,115,420,Meters
+336,Bamboo-Corduroy,195,290,Meters
+337,Bamboo-Denim,115,310,Meters
+338,Bamboo-Tweed,110,570,Meters
+339,Bamboo-Crepe,145,230,Meters
+340,Bamboo-Georgette,140,440,Meters
+341,Bamboo-Seersucker,160,260,Meters
+342,Bamboo-Poplin,155,210,Meters
+343,Bamboo-Sateen,95,490,Meters
+344,Bamboo-Duck Cloth,100,320,Meters
+345,Bamboo-Ripstop,125,400,Meters
+346,Bamboo-Broadcloth,175,300,Meters
+347,Bamboo-Batiste,105,280,Meters
+348,Bamboo-Muslin,120,530,Meters
+349,Bamboo-Taffeta,170,220,Meters
+350,Bamboo-Shantung,130,480,Meters
+351,Artificial Silk,145,270,Meters
+352,Aramid Fabric,155,210,Meters
+353,Beaded Fabric,85,480,Meters
+354,Bourette Silk,120,340,Meters
+355,Burlap,100,410,Meters
+356,Cambric,190,320,Meters
+357,Cire Fabric,130,280,Meters
+358,Coir Fabric,105,560,Meters
+359,Coated Fabric,115,190,Meters
+360,Corded Fabric,165,470,Meters
+361,Dobby Weave,140,290,Meters
+362,Double Cloth,195,310,Meters
+363,Double Knit,115,270,Meters
+364,Drill Cotton,110,420,Meters
+365,Duck Canvas,145,230,Meters
+366,Embossed Fabric,140,440,Meters
+367,Ethnic Print Fabric,160,260,Meters
+368,Faux Fur,155,210,Meters
+369,Faux Leather,95,490,Meters
+370,Faux Suede,100,320,Meters
+371,Feather Fabric,125,400,Meters
+372,Filament Yarn,175,300,Meters
+373,Fishnet Fabric,105,280,Meters
+374,Glazed Cotton,120,530,Meters
+375,Handloom Fabric,170,220,Meters
+376,Heat-Resistant Fabric,130,480,Meters
+377,High-Twist Yarn Fabric,145,270,Meters
+378,Honeycomb Fabric,155,210,Meters
+379,Kevlar Fabric,85,480,Meters
+380,Laminated Fabric,120,340,Meters
+381,Leather,100,410,Meters
+382,Mesh Fabric,190,320,Meters
+383,Metal Fabric,130,280,Meters
+384,Mixed Fiber Fabric,105,560,Meters
+385,Monofilament Fabric,115,190,Meters
+386,Nylon,165,470,Meters
+387,Nylon Mesh,140,290,Meters
+388,Oilskin Fabric,195,310,Meters
+389,Open Weave Fabric,115,270,Meters
+390,Overdyed Fabric,110,420,Meters
+391,Paintable Fabric,145,230,Meters
+392,Paper Fabric,140,440,Meters
+393,Plastic Fabric,160,260,Meters
+394,Plissé Weave,155,210,Meters
+395,Polythene Fabric,95,490,Meters
+396,Polyurethane Coated Fabric,100,320,Meters
+397,Quilted Fabric,125,400,Meters
+398,Raschel Knit Fabric,175,300,Meters
+399,Reinforced Fabric,105,280,Meters
+400,Resin-Coated Fabric,120,530,Meters
+401,Resin-Coated Fabric,150,250,Rolls  
+402,Vinyl-Coated Polyester,180,180,Rolls  
+403,PVC-Coated Fabric,90,500,Meters  
+404,Teflon-Coated Fabric,75,350,Meters  
+405,Acrylic-Coated Cotton,130,400,Kilograms  
+406,Fire-Resistant Wool,200,300,Rolls  
+407,UV-Resistant Nylon,95,280,Rolls  
+408,Waterproof Polyester,85,550,Kilograms  
+409,Oil-Resistant Canvas,160,200,Meters  
+410,Waxed Cotton,140,450,Meters  
+411,Antibacterial Bamboo,170,270,Rolls  
+412,Stain-Resistant Microfiber,140,190,Kilograms  
+413,Reflective Safety Fabric,100,520,Meters  
+414,Heat-Resistant Kevlar,80,360,Meters  
+415,Bulletproof Aramid Fabric,120,390,Meters  
+416,Conductive Fabric,195,310,Meters  
+417,Anti-Static Polypropylene,85,550,Kilograms  
+418,Thermal Insulation Wool,95,540,Kilograms  
+419,Lightweight Ripstop Nylon,155,210,Kilograms  
+420,High-Tenacity Polyester,135,460,Kilograms  
+421,Smart Textile with Sensors,145,270,Meters  
+422,Moisture-Wicking Polyester,160,200,Meters  
+423,Silver-Coated Antibacterial Fabric,85,480,Meters  
+424,Phase-Change Cooling Fabric,95,340,Meters  
+425,Water-Absorbent Microfiber,110,410,Meters  
+426,High-Elasticity Spandex Blend,185,320,Meters  
+427,Weatherproof Neoprene,120,300,Meters  
+428,Non-Woven Polypropylene,105,560,Meters  
+429,UV-Blocking Lycra,165,190,Meters  
+430,Carbon Fiber Reinforced Fabric,125,470,Meters  
+431,Fiberglass Mesh,130,280,Meters  
+432,High-Density Memory Foam Fabric,175,170,Meters  
+433,Laminated Composite Fabric,105,510,Meters  
+434,Eco-Friendly Tencel Blend,90,330,Meters  
+435,Hemp-Cotton Organic Fabric,115,420,Meters  
+436,Bamboo-Silk Luxury Blend,195,290,Meters  
+437,Wool-Cashmere Deluxe Blend,115,310,Meters  
+438,Merino Wool-Tencel Hybrid,110,570,Meters  
+439,Jute-Rayon Natural Fiber Mix,145,230,Meters  
+440,Velvet-Chiffon Elegant Fabric,140,440,Meters  
+441,Satin-Brocade Formal Wear Fabric,160,260,Meters  
+442,Fleece-Polyester Durable Blend,155,210,Meters  
+443,Piqué-Spandex Stretchable Fabric,95,490,Meters  
+444,Linen-Denim Vintage Style Fabric,100,320,Meters  
+445,Corduroy-Satin Hybrid Fabric,125,400,Meters  
+446,Poplin-Georgette Light Fabric,175,300,Meters  
+447,Gabardine-Wool Classic Suit Fabric,105,280,Meters  
+448,Jacquard-Organza Royal Fabric,120,530,Meters  
+449,Taffeta-Velvet Opulent Fabric,170,220,Meters  
+450,Polynosic-Viscose Soft Fabric,130,480,Meters  
+451,Lyocell-Bamboo Sustainable Fabric,145,270,Meters  
+452,Wool-Linen-Coated Winter Fabric,155,210,Meters  
+453,Moisture-Proof Military Fabric,85,480,Meters  
+454,Flame-Retardant Upholstery Fabric,120,340,Meters  
+455,Breathable 3D Air Mesh,100,410,Meters  
+456,Super-Stretch Activewear Fabric,190,320,Meters  
+457,Microfiber-Suede Ultra-Soft Fabric,130,280,Meters  
+458,Tulle-Silk Evening Wear Fabric,105,560,Meters  
+459,High-Performance Marathon Fabric,115,190,Meters  
+460,Ice-Cold Cooling Fabric,165,470,Meters  
+461,Windproof Softshell Fabric,140,290,Meters  
+462,Thermal-Heated Smart Fabric,195,310,Meters  
+463,Organic Muslin-Cotton Baby Fabric,115,270,Meters  
+464,Modal-Satin Hybrid Sleepwear Fabric,110,420,Meters  
+465,Wrinkle-Resistant Polyester,145,230,Meters  
+466,Embossed Leather-Style Fabric,140,440,Meters  
+467,Carbon-Infused Athletic Fabric,160,260,Meters  
+468,Bio-Degradable Biopolymer Fabric,155,210,Meters  
+469,Water-Soluble Smart Fabric,95,490,Meters  
+470,Cork-Infused Vegan Leather,100,320,Meters  
+471,Silver-Thread Medical Fabric,125,400,Meters  
+472,Conductive Graphene Textile,175,300,Meters  
+473,Anti-Microbial Copper-Infused Fabric,105,280,Meters  
+474,Seaweed-Based Fabric,120,530,Meters  
+475,Algae-Derived Eco-Fabric,170,220,Meters  
+476,Glow-in-the-Dark Textile,130,480,Meters  
+477,LED-Embedded Interactive Fabric,145,270,Meters  
+478,Recycled Ocean Plastic Fabric,155,210,Meters  
+479,Thermochromic Color-Changing Fabric,85,480,Meters  
+480,Self-Healing Nano-Fabric,120,340,Meters  
+481,3D-Printed Custom Fabric,100,410,Meters  
+482,Electrospun Nanofiber Textile,190,320,Meters  
+483,Vegan Leather Alternative Fabric,130,280,Meters  
+484,Water-Reactive Pattern Fabric,105,560,Meters  
+485,Fragrance-Infused Perfume Fabric,115,190,Meters  
+486,Liquid-Repelling Lotus-Effect Fabric,165,470,Meters  
+487,Solar-Powered Charging Fabric,140,290,Meters  
+488,Invisible Camouflage Fabric,195,310,Meters  
+489,Soundproof Acoustic Fabric,115,270,Meters  
+490,Ultra-Lightweight Parachute Fabric,110,420,Meters  
+491,Climate-Adaptive Fabric,145,230,Meters  
+492,Self-Cleaning Hydrophobic Fabric,140,440,Meters  
+493,Bullet-Absorbing Gel Fabric,160,260,Meters  
+494,Shape-Memory Smart Fabric,155,210,Meters  
+495,Artificial Spider Silk High-Strength Fabric,95,490,Meters  
+496,Super-Insulated Arctic Survival Fabric,100,320,Meters  
+497,Flexible OLED-Embedded Display Fabric,125,400,Meters  
+498,Anti-Radiation Protective Fabric,175,300,Meters  
+499,NASA-Inspired Space Suit Fabric,105,280,Meters  
+500,Future Tech Biodegradable Fabric,120,530,Meters  

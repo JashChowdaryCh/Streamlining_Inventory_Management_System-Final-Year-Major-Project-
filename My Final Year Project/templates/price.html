@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Predict Fabric Price</title>
+</head>
+<body>
+    <h2>Price Prediction</h2>
+    <form method="post">
+        <label>Fabric Type: <input type="text" name="fabric"></label>
+        <input type="submit" value="Predict">
+    </form>
+    {% if price %}
+        <p>Predicted Price: ₹{{ price['Predicted Price'] }}</p>
+        <p>Status: {{ price['Demand Status'] }}</p>
+    {% elif error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <a href="/">Back</a>
+</body>
+</html>

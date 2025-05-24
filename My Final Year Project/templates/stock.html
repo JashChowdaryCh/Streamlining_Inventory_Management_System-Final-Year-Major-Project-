@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Check Stock Availability</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Check Fabric Stock</h1>
+        <form method="POST">
+            <label for="fabric">Fabric Type:</label>
+            <input type="text" id="fabric" name="fabric" placeholder="e.g., cotton" required>
+            <button type="submit">Check Stock</button>
+        </form>
+
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+
+        {% if stock %}
+            <div class="result">
+                <h2>Stock Details</h2>
+                <p><strong>Price per Unit:</strong> ₹{{ stock['Price per Unit'] }}</p>
+                <p><strong>Stock Available:</strong> {{ stock['Stock Available'] }}</p>
+                <p><strong>Unit Type:</strong> {{ stock['Unit Type'] }}</p>
+            </div>
+        {% endif %}
+        
+        <a href="{{ url_for('home') }}">Back to Home</a>
+    </div>
+</body>
+</html>

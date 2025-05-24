@@ -1,0 +1,534 @@
+Fabric,Biodegradable,Recyclable,Monthly_Waste_kg,Annual_Trend,Disposal Method,Recycling Efficiency (%)
+Cotton,Yes,Yes,500,5,Composting,85
+Polyester,No,Yes,700,-3,Mechanical Recycling,60
+Silk,Yes,Yes,350,2,Composting,90
+Linen,Yes,Yes,450,4,Composting,80
+Wool,Yes,Yes,480,3,Composting,75
+Denim,No,Yes,620,-2,Mechanical Recycling,65
+Rayon,Yes,Yes,400,2,Chemical Recycling,70
+Velvet,No,Yes,300,1,Incineration,30
+Chiffon,No,Yes,250,0,Incineration,40
+Satin,No,Yes,280,-1,Incineration,35
+Hemp,Yes,Yes,400,6,Composting,88
+Jute,Yes,Yes,350,5,Composting,92
+Ramie,Yes,Yes,250,4,Composting,87
+Bamboo Fabric,Yes,Yes,500,7,Composting,86
+Modal,Yes,Yes,450,6,Chemical Recycling,75
+Tencel,Yes,Yes,300,5,Chemical Recycling,78
+Cashmere,Yes,Yes,200,8,Composting,83
+Mohair,Yes,Yes,180,7,Composting,80
+Alpaca,Yes,Yes,220,6,Composting,82
+Angora,Yes,Yes,150,9,Composting,85
+Lace,No,Yes,280,2,Incineration,50
+Organza,No,Yes,320,3,Incineration,45
+Tweed,No,Yes,600,-1,Mechanical Recycling,60
+Gabardine,No,Yes,500,-2,Mechanical Recycling,62
+Georgette,No,Yes,350,1,Incineration,40
+Taffeta,No,Yes,370,0,Incineration,38
+Canvas,No,Yes,750,-4,Mechanical Recycling,67
+Tulle,No,Yes,260,3,Incineration,42
+Muslin,Yes,Yes,420,5,Composting,85
+Chambray,No,Yes,540,-2,Mechanical Recycling,63
+Voile,Yes,Yes,310,4,Composting,82
+Seersucker,No,Yes,470,-1,Mechanical Recycling,64
+Tartan,No,Yes,580,-3,Mechanical Recycling,66
+Brocade,No,Yes,400,2,Mechanical Recycling,55
+Crepe,No,Yes,330,1,Incineration,50
+Flannel,No,Yes,620,-2,Mechanical Recycling,65
+Fleece,No,Yes,680,-3,Mechanical Recycling,60
+Microfiber,No,Yes,720,-4,Mechanical Recycling,58
+Gauze,Yes,Yes,240,6,Composting,88
+Spandex,No,Yes,490,-1,Incineration,45
+Neoprene,No,Yes,530,-2,Incineration,35
+Lyocell,Yes,Yes,290,5,Chemical Recycling,78
+Cupro,No,Yes,430,-1,Chemical Recycling,72
+Jacquard,No,Yes,380,3,Mechanical Recycling,59
+Batiste,Yes,Yes,270,4,Composting,84
+Terrycloth,No,Yes,610,-3,Mechanical Recycling,70
+Organdy,No,Yes,320,2,Incineration,40
+Drill,No,Yes,700,-5,Mechanical Recycling,68
+Corduroy,No,Yes,550,-2,Mechanical Recycling,65
+Velour,No,Yes,510,-3,Mechanical Recycling,55
+Poplin,No,Yes,460,1,Mechanical Recycling,60
+Khadi,Yes,Yes,390,6,Composting,89
+Damask,No,Yes,340,2,Mechanical Recycling,57
+Melton,No,Yes,580,-2,Mechanical Recycling,62
+Herringbone,No,Yes,410,1,Mechanical Recycling,64
+Sateen,No,Yes,360,0,Mechanical Recycling,58
+Duck Cloth,No,Yes,690,-4,Mechanical Recycling,66
+Piqué,No,Yes,330,1,Mechanical Recycling,61
+Serge,No,Yes,580,-3,Mechanical Recycling,63
+Suede,No,Yes,370,2,Incineration,48
+Oilcloth,No,Yes,620,-2,Incineration,30
+Cavalry Twill,No,Yes,530,-1,Mechanical Recycling,60
+Ripstop,No,Yes,470,-2,Mechanical Recycling,67
+Challis,No,Yes,390,3,Mechanical Recycling,55
+Polynosic,No,Yes,350,1,Chemical Recycling,73
+Faille,No,Yes,320,0,Mechanical Recycling,57
+Fustian,No,Yes,510,-3,Mechanical Recycling,65
+Melange,No,Yes,540,-2,Mechanical Recycling,62
+Loden,No,Yes,580,-1,Mechanical Recycling,60
+Plissé,No,Yes,290,3,Incineration,42
+Shantung,No,Yes,270,2,Mechanical Recycling,55
+Broadcloth,No,Yes,610,-4,Mechanical Recycling,58
+Matelassé,No,Yes,330,1,Mechanical Recycling,60
+Birdseye,No,Yes,350,0,Mechanical Recycling,62
+Bark Cloth,No,Yes,490,-2,Mechanical Recycling,67
+Pointelle,No,Yes,520,-1,Mechanical Recycling,63
+Whipcord,No,Yes,440,1,Mechanical Recycling,66
+Hopsack,No,Yes,580,-3,Mechanical Recycling,64
+Lame,No,Yes,600,-2,Incineration,38
+Moleskin,No,Yes,560,-1,Mechanical Recycling,60
+Venetian,No,Yes,380,2,Mechanical Recycling,55
+Sailcloth,No,Yes,630,-4,Mechanical Recycling,68
+Eyelash Lace,No,Yes,320,1,Incineration,50
+Gaboon,No,Yes,400,-1,Mechanical Recycling,58
+Huckaback,No,Yes,310,2,Mechanical Recycling,67
+Stretch Satin,No,Yes,390,-3,Incineration,45
+Madras,No,Yes,570,-2,Mechanical Recycling,65
+Sharkskin,No,Yes,610,-4,Mechanical Recycling,60
+Crinoline,No,Yes,350,1,Incineration,35
+Bouclé,No,Yes,450,-1,Mechanical Recycling,64
+Basketweave,No,Yes,380,2,Mechanical Recycling,63
+Chenille,No,Yes,480,-3,Mechanical Recycling,60
+Ottoman,No,Yes,510,-2,Mechanical Recycling,58
+Velveteen,No,Yes,430,-1,Mechanical Recycling,55
+Tweed Houndstooth,No,Yes,550,-3,Mechanical Recycling,60
+Triple Cloth,No,Yes,460,-2,Mechanical Recycling,66
+Warp Knits,No,Yes,490,-1,Mechanical Recycling,62
+Merino Wool,Yes,Yes,340,5,Composting,85
+Felted Wool,Yes,Yes,280,4,Composting,78
+Charmeuse,No,Yes,320,1,Incineration,40
+Cotton-Polyester,No,Yes,600,-2,Mechanical Recycling,65
+Cotton-Silk,Yes,Yes,400,3,Composting,88
+Cotton-Linen,Yes,Yes,450,5,Composting,85
+Cotton-Wool,Yes,Yes,500,4,Composting,82
+Cotton-Rayon,Yes,Yes,420,2,Chemical Recycling,75
+Cotton-Hemp,Yes,Yes,480,6,Composting,89
+Cotton-Bamboo,Yes,Yes,470,7,Composting,87
+Cotton-Tencel,Yes,Yes,390,5,Chemical Recycling,80
+Cotton-Modal,Yes,Yes,410,6,Chemical Recycling,78
+Cotton-Spandex,No,Yes,530,-1,Incineration,40
+Cotton-Lyocell,Yes,Yes,380,5,Chemical Recycling,77
+Cotton-Viscose,Yes,Yes,400,3,Chemical Recycling,74
+Cotton-Jute,Yes,Yes,350,5,Composting,90
+Cotton-Ramie,Yes,Yes,300,4,Composting,85
+Cotton-Chiffon,No,Yes,320,1,Incineration,45
+Cotton-Cashmere,Yes,Yes,280,8,Composting,88
+Cotton-Angora,Yes,Yes,260,9,Composting,86
+Cotton-Velvet,No,Yes,500,-2,Mechanical Recycling,63
+Cotton-Flannel,No,Yes,550,-3,Mechanical Recycling,62
+Cotton-Fleece,No,Yes,600,-4,Mechanical Recycling,60
+Cotton-Jacquard,No,Yes,420,3,Mechanical Recycling,58
+Cotton-Gabardine,No,Yes,450,2,Mechanical Recycling,61
+Cotton-Corduroy,No,Yes,520,-2,Mechanical Recycling,64
+Cotton-Denim,No,Yes,580,-3,Mechanical Recycling,66
+Cotton-Tweed,No,Yes,490,-2,Mechanical Recycling,60
+Cotton-Crepe,No,Yes,350,1,Incineration,50
+Cotton-Georgette,No,Yes,330,2,Incineration,48
+Cotton-Seersucker,No,Yes,400,-1,Mechanical Recycling,58
+Cotton-Poplin,No,Yes,410,0,Mechanical Recycling,59
+Cotton-Sateen,No,Yes,390,1,Mechanical Recycling,57
+Cotton-Duck Cloth,No,Yes,620,-3,Mechanical Recycling,65
+Cotton-Ripstop,No,Yes,590,-4,Mechanical Recycling,63
+Cotton-Broadcloth,No,Yes,450,2,Mechanical Recycling,60
+Cotton-Batiste,Yes,Yes,300,4,Composting,83
+Cotton-Muslin,Yes,Yes,320,5,Composting,84
+Cotton-Taffeta,No,Yes,310,1,Incineration,42
+Cotton-Shantung,No,Yes,290,2,Mechanical Recycling,56
+Cotton-Velour,No,Yes,410,-2,Mechanical Recycling,54
+Cotton-Satin,No,Yes,340,0,Mechanical Recycling,55
+Cotton-Tulle,No,Yes,300,3,Incineration,40
+Polyester-Silk,No,Yes,380,2,Chemical Recycling,70
+Polyester-Linen,No,Yes,410,1,Mechanical Recycling,62
+Polyester-Wool,No,Yes,420,0,Mechanical Recycling,64
+Polyester-Rayon,No,Yes,450,-1,Chemical Recycling,68
+Polyester-Bamboo,No,Yes,470,1,Mechanical Recycling,65
+Polyester-Tencel,No,Yes,390,3,Chemical Recycling,72
+Polyester-Modal,No,Yes,360,2,Chemical Recycling,74
+Polyester-Spandex,No,Yes,510,-3,Incineration,38
+Polyester-Lyocell,No,Yes,320,1,Chemical Recycling,71
+Polyester-Viscose,No,Yes,340,0,Chemical Recycling,69
+Polyester-Jute,No,Yes,350,-1,Mechanical Recycling,60
+Polyester-Ramie,No,Yes,330,2,Mechanical Recycling,58
+Polyester-Chiffon,No,Yes,300,0,Incineration,40
+Polyester-Cashmere,No,Yes,280,4,Mechanical Recycling,57
+Polyester-Angora,No,Yes,250,5,Mechanical Recycling,55
+Polyester-Velvet,No,Yes,450,-2,Mechanical Recycling,62
+Polyester-Flannel,No,Yes,480,-3,Mechanical Recycling,64
+Polyester-Fleece,No,Yes,500,-4,Mechanical Recycling,60
+Polyester-Jacquard,No,Yes,350,3,Mechanical Recycling,56
+Polyester-Gabardine,No,Yes,420,-1,Mechanical Recycling,63
+Polyester-Corduroy,No,Yes,490,-2,Mechanical Recycling,60
+Polyester-Denim,No,Yes,510,-3,Mechanical Recycling,58
+Polyester-Tweed,No,Yes,470,-1,Mechanical Recycling,59
+Polyester-Crepe,No,Yes,330,1,Incineration,44
+Polyester-Georgette,No,Yes,340,0,Incineration,46
+Polyester-Seersucker,No,Yes,400,-1,Mechanical Recycling,55
+Polyester-Poplin,No,Yes,410,2,Mechanical Recycling,58
+Polyester-Sateen,No,Yes,390,1,Mechanical Recycling,57
+Polyester-Duck Cloth,No,Yes,520,-3,Mechanical Recycling,62
+Polyester-Ripstop,No,Yes,490,-2,Mechanical Recycling,60
+Polyester-Broadcloth,No,Yes,450,1,Mechanical Recycling,57
+Polyester-Batiste,No,Yes,320,2,Mechanical Recycling,56
+Polyester-Muslin,No,Yes,310,3,Mechanical Recycling,54
+Polyester-Taffeta,No,Yes,300,0,Incineration,42
+Polyester-Shantung,No,Yes,290,1,Mechanical Recycling,55
+Polyester-Velour,No,Yes,330,-2,Mechanical Recycling,52
+Polyester-Satin,No,Yes,310,0,Mechanical Recycling,51
+Polyester-Tulle,No,Yes,280,2,Incineration,38
+Silk-Wool,Yes,Yes,350,4,Composting,88
+Silk-Linen,Yes,Yes,370,5,Composting,85
+Silk-Rayon,Yes,Yes,390,3,Chemical Recycling,80
+Silk-Bamboo,Yes,Yes,400,6,Composting,87
+Silk-Tencel,Yes,Yes,320,5,Chemical Recycling,78
+Silk-Modal,Yes,Yes,310,4,Chemical Recycling,76
+Silk-Spandex,No,Yes,280,-1,Incineration,40
+Silk-Lyocell,Yes,Yes,290,5,Chemical Recycling,79
+Silk-Viscose,Yes,Yes,300,3,Chemical Recycling,74
+Silk-Jute,Yes,Yes,250,5,Composting,90
+Silk-Ramie,Yes,Yes,240,4,Composting,85
+Silk-Chiffon,No,Yes,230,1,Incineration,45
+Silk-Cashmere,Yes,Yes,200,8,Composting,88
+Silk-Angora,Yes,Yes,190,9,Composting,86
+Silk-Velvet,No,Yes,270,-2,Mechanical Recycling,63
+Silk-Flannel,No,Yes,280,-3,Mechanical Recycling,60
+Silk-Fleece,No,Yes,290,-4,Mechanical Recycling,58
+Silk-Jacquard,No,Yes,220,3,Mechanical Recycling,55
+Silk-Gabardine,No,Yes,250,2,Mechanical Recycling,57
+Silk-Corduroy,No,Yes,280,-2,Mechanical Recycling,54
+Silk-Denim,No,Yes,300,-3,Mechanical Recycling,52
+Silk-Tweed,No,Yes,270,-1,Mechanical Recycling,50
+Silk-Crepe,Yes,Yes,320,3,Composting,88
+Silk-Georgette,Yes,Yes,340,2,Composting,85
+Silk-Seersucker,Yes,Yes,280,1,Composting,82
+Silk-Poplin,Yes,Yes,360,4,Composting,90
+Silk-Sateen,Yes,Yes,300,2,Composting,87
+Silk-Duck Cloth,Yes,Yes,380,5,Composting,86
+Silk-Ripstop,Yes,Yes,250,1,Composting,80
+Silk-Broadcloth,Yes,Yes,310,3,Composting,84
+Silk-Batiste,Yes,Yes,270,2,Composting,83
+Silk-Muslin,Yes,Yes,290,4,Composting,85
+Silk-Taffeta,Yes,Yes,320,3,Composting,88
+Silk-Shantung,Yes,Yes,300,2,Composting,84
+Silk-Velour,Yes,Yes,310,3,Composting,86
+Silk-Satin,Yes,Yes,280,1,Composting,80
+Silk-Tulle,Yes,Yes,270,2,Composting,82
+Linen-Wool,Yes,Yes,400,5,Composting,85
+Linen-Rayon,Yes,Yes,380,4,Chemical Recycling,75
+Linen-Bamboo,Yes,Yes,360,3,Composting,88
+Linen-Tencel,Yes,Yes,340,2,Chemical Recycling,78
+Linen-Modal,Yes,Yes,320,3,Chemical Recycling,75
+Linen-Spandex,No,Yes,410,-1,Incineration,45
+Linen-Lyocell,Yes,Yes,390,5,Chemical Recycling,78
+Linen-Viscose,Yes,Yes,370,4,Chemical Recycling,70
+Linen-Jute,Yes,Yes,350,5,Composting,92
+Linen-Ramie,Yes,Yes,330,4,Composting,87
+Linen-Chiffon,No,Yes,280,1,Incineration,40
+Linen-Cashmere,Yes,Yes,310,6,Composting,83
+Linen-Angora,Yes,Yes,290,7,Composting,85
+Linen-Velvet,No,Yes,340,2,Incineration,50
+Linen-Flannel,No,Yes,420,-2,Mechanical Recycling,65
+Linen-Fleece,No,Yes,440,-3,Mechanical Recycling,60
+Linen-Jacquard,No,Yes,350,1,Mechanical Recycling,59
+Linen-Gabardine,No,Yes,370,-2,Mechanical Recycling,62
+Linen-Corduroy,No,Yes,400,-1,Mechanical Recycling,65
+Linen-Denim,No,Yes,450,-2,Mechanical Recycling,66
+Linen-Tweed,No,Yes,430,-3,Mechanical Recycling,64
+Linen-Crepe,No,Yes,310,1,Incineration,50
+Linen-Georgette,No,Yes,320,2,Incineration,40
+Linen-Seersucker,No,Yes,330,0,Mechanical Recycling,64
+Linen-Poplin,No,Yes,310,1,Mechanical Recycling,60
+Linen-Sateen,No,Yes,300,0,Mechanical Recycling,58
+Linen-Duck Cloth,No,Yes,480,-4,Mechanical Recycling,66
+Linen-Ripstop,No,Yes,350,-2,Mechanical Recycling,67
+Linen-Broadcloth,No,Yes,410,-4,Mechanical Recycling,58
+Linen-Batiste,Yes,Yes,270,3,Composting,84
+Linen-Muslin,Yes,Yes,280,4,Composting,85
+Linen-Taffeta,No,Yes,360,0,Mechanical Recycling,55
+Linen-Shantung,No,Yes,290,2,Mechanical Recycling,55
+Linen-Velour,No,Yes,320,-1,Mechanical Recycling,55
+Linen-Satin,No,Yes,330,0,Mechanical Recycling,58
+Linen-Tulle,No,Yes,250,1,Incineration,42
+Wool-Rayon,Yes,Yes,390,4,Chemical Recycling,75
+Wool-Bamboo,Yes,Yes,370,3,Composting,88
+Wool-Tencel,Yes,Yes,360,2,Chemical Recycling,78
+Wool-Modal,Yes,Yes,340,3,Chemical Recycling,75
+Wool-Spandex,No,Yes,400,-1,Incineration,45
+Wool-Lyocell,Yes,Yes,380,4,Chemical Recycling,78
+Wool-Viscose,Yes,Yes,360,3,Chemical Recycling,70
+Wool-Jute,Yes,Yes,340,5,Composting,92
+Wool-Ramie,Yes,Yes,320,4,Composting,87
+Wool-Chiffon,No,Yes,290,1,Incineration,40
+Wool-Cashmere,Yes,Yes,300,6,Composting,83
+Wool-Angora,Yes,Yes,280,7,Composting,85
+Wool-Velvet,No,Yes,350,2,Incineration,50
+Wool-Flannel,No,Yes,430,-2,Mechanical Recycling,65
+Wool-Fleece,No,Yes,450,-3,Mechanical Recycling,60
+Wool-Jacquard,No,Yes,360,1,Mechanical Recycling,59
+Wool-Gabardine,No,Yes,380,-2,Mechanical Recycling,62
+Wool-Corduroy,No,Yes,410,-1,Mechanical Recycling,65
+Wool-Denim,No,Yes,460,-2,Mechanical Recycling,66
+Wool-Tweed,No,Yes,440,-3,Mechanical Recycling,64
+Wool-Crepe,No,Yes,320,1,Incineration,50
+Wool-Georgette,No,Yes,330,2,Incineration,40
+Wool-Seersucker,No,Yes,340,0,Mechanical Recycling,64
+Wool-Poplin,No,Yes,320,1,Mechanical Recycling,60
+Wool-Sateen,No,Yes,310,0,Mechanical Recycling,58
+Wool-Duck Cloth,No,Yes,490,-4,Mechanical Recycling,66
+Wool-Ripstop,No,Yes,360,-2,Mechanical Recycling,67
+Wool-Broadcloth,No,Yes,420,-4,Mechanical Recycling,58
+Wool-Batiste,Yes,Yes,280,3,Composting,84
+Wool-Muslin,Yes,Yes,290,4,Composting,85
+Wool-Taffeta,No,Yes,370,0,Mechanical Recycling,55
+Wool-Shantung,No,Yes,300,2,Mechanical Recycling,55
+Wool-Velour,No,Yes,330,-1,Mechanical Recycling,55
+Wool-Satin,No,Yes,340,0,Mechanical Recycling,58
+Wool-Tulle,No,Yes,260,1,Incineration,42
+Rayon-Bamboo,Yes,Yes,320,3,Chemical Recycling,75
+Rayon-Tencel,Yes,Yes,310,2,Chemical Recycling,73
+Rayon-Modal,Yes,Yes,300,2,Chemical Recycling,72
+Rayon-Spandex,No,Yes,340,-1,Incineration,50
+Rayon-Lyocell,Yes,Yes,330,3,Chemical Recycling,74
+Rayon-Viscose,Yes,Yes,320,2,Chemical Recycling,70
+Rayon-Jute,Yes,Yes,310,4,Composting,85
+Rayon-Ramie,Yes,Yes,290,3,Composting,82
+Rayon-Chiffon,No,Yes,260,1,Incineration,45
+Rayon-Cashmere,Yes,Yes,270,5,Composting,80
+Rayon-Angora,Yes,Yes,250,6,Composting,83
+Rayon-Velvet,No,Yes,310,2,Incineration,55
+Rayon-Flannel,No,Yes,370,-2,Mechanical Recycling,60
+Rayon-Fleece,No,Yes,390,-3,Mechanical Recycling,58
+Rayon-Jacquard,No,Yes,330,1,Mechanical Recycling,57
+Rayon-Gabardine,No,Yes,350,-1,Mechanical Recycling,59
+Rayon-Corduroy,No,Yes,370,-2,Mechanical Recycling,61
+Rayon-Denim,No,Yes,420,-3,Mechanical Recycling,63
+Rayon-Tweed,No,Yes,400,-3,Mechanical Recycling,62
+Rayon-Crepe,No,Yes,280,1,Incineration,50
+Rayon-Georgette,No,Yes,290,2,Incineration,42
+Rayon-Seersucker,No,Yes,300,0,Mechanical Recycling,60
+Rayon-Poplin,No,Yes,280,1,Mechanical Recycling,57
+Rayon-Sateen,No,Yes,270,0,Mechanical Recycling,55
+Rayon-Duck Cloth,No,Yes,450,-4,Mechanical Recycling,62
+Rayon-Ripstop,No,Yes,320,-2,Mechanical Recycling,63
+Rayon-Broadcloth,No,Yes,380,-4,Mechanical Recycling,55
+Rayon-Batiste,Yes,Yes,250,3,Composting,78
+Rayon-Muslin,Yes,Yes,260,4,Composting,80
+Rayon-Taffeta,No,Yes,330,0,Mechanical Recycling,53
+Rayon-Shantung,No,Yes,270,2,Mechanical Recycling,52
+Rayon-Velour,No,Yes,300,-1,Mechanical Recycling,54
+Rayon-Satin,No,Yes,310,0,Mechanical Recycling,56
+Rayon-Tulle,No,Yes,230,1,Incineration,40
+Bamboo-Tencel,Yes,Yes,310,3,Chemical Recycling,74
+Bamboo-Modal,Yes,Yes,300,2,Chemical Recycling,72
+Bamboo-Spandex,No,Yes,330,-1,Incineration,48
+Bamboo-Lyocell,Yes,Yes,320,3,Chemical Recycling,75
+Bamboo-Viscose,Yes,Yes,310,2,Chemical Recycling,71
+Bamboo-Jute,Yes,Yes,300,4,Composting,87
+Bamboo-Ramie,Yes,Yes,280,3,Composting,84
+Bamboo-Chiffon,No,Yes,250,1,Incineration,43
+Bamboo-Cashmere,Yes,Yes,260,5,Composting,79
+Bamboo-Angora,Yes,Yes,240,6,Composting,81
+Bamboo-Velvet,No,Yes,290,2,Incineration,50
+Bamboo-Flannel,No,Yes,350,-2,Mechanical Recycling,58
+Bamboo-Fleece,No,Yes,370,-3,Mechanical Recycling,55
+Rayon-Jacquard,No,Yes,380,3,Mechanical Recycling,59
+Rayon-Gabardine,No,Yes,500,-2,Mechanical Recycling,62
+Rayon-Corduroy,No,Yes,550,-2,Mechanical Recycling,65
+Rayon-Denim,No,Yes,620,-2,Mechanical Recycling,65
+Rayon-Tweed,No,Yes,600,-1,Mechanical Recycling,60
+Rayon-Crepe,No,Yes,330,1,Incineration,50
+Rayon-Georgette,No,Yes,350,1,Incineration,40
+Rayon-Seersucker,No,Yes,470,-1,Mechanical Recycling,64
+Rayon-Poplin,No,Yes,460,1,Mechanical Recycling,60
+Rayon-Sateen,No,Yes,360,0,Mechanical Recycling,58
+Rayon-Duck Cloth,No,Yes,690,-4,Mechanical Recycling,66
+Rayon-Ripstop,No,Yes,470,-2,Mechanical Recycling,67
+Rayon-Broadcloth,No,Yes,610,-4,Mechanical Recycling,58
+Rayon-Batiste,Yes,Yes,270,4,Composting,84
+Rayon-Muslin,Yes,Yes,420,5,Composting,85
+Rayon-Taffeta,No,Yes,370,0,Incineration,38
+Rayon-Shantung,No,Yes,270,2,Mechanical Recycling,55
+Rayon-Velour,No,Yes,510,-3,Mechanical Recycling,55
+Rayon-Satin,No,Yes,280,-1,Incineration,35
+Rayon-Tulle,No,Yes,260,3,Incineration,42
+Bamboo-Tencel,Yes,Yes,300,5,Chemical Recycling,78
+Bamboo-Modal,Yes,Yes,450,6,Chemical Recycling,75
+Bamboo-Spandex,No,Yes,490,-1,Incineration,45
+Bamboo-Lyocell,Yes,Yes,290,5,Chemical Recycling,78
+Bamboo-Viscose,Yes,Yes,400,2,Chemical Recycling,70
+Bamboo-Jute,Yes,Yes,350,5,Composting,92
+Bamboo-Ramie,Yes,Yes,250,4,Composting,87
+Bamboo-Chiffon,No,Yes,250,0,Incineration,40
+Bamboo-Cashmere,Yes,Yes,200,8,Composting,83
+Bamboo-Angora,Yes,Yes,150,9,Composting,85
+Bamboo-Velvet,No,Yes,300,1,Incineration,30
+Bamboo-Flannel,No,Yes,620,-2,Mechanical Recycling,65
+Bamboo-Fleece,No,Yes,680,-3,Mechanical Recycling,60
+Bamboo-Jacquard,No,Yes,380,3,Mechanical Recycling,59
+Bamboo-Gabardine,No,Yes,500,-2,Mechanical Recycling,62
+Bamboo-Corduroy,No,Yes,550,-2,Mechanical Recycling,65
+Bamboo-Denim,No,Yes,620,-2,Mechanical Recycling,65
+Bamboo-Tweed,No,Yes,600,-1,Mechanical Recycling,60
+Bamboo-Crepe,No,Yes,330,1,Incineration,50
+Bamboo-Georgette,No,Yes,350,1,Incineration,40
+Bamboo-Seersucker,No,Yes,470,-1,Mechanical Recycling,64
+Bamboo-Poplin,No,Yes,460,1,Mechanical Recycling,60
+Bamboo-Sateen,No,Yes,360,0,Mechanical Recycling,58
+Bamboo-Duck Cloth,No,Yes,690,-4,Mechanical Recycling,66
+Bamboo-Ripstop,No,Yes,470,-2,Mechanical Recycling,67
+Bamboo-Broadcloth,No,Yes,610,-4,Mechanical Recycling,58
+Bamboo-Batiste,Yes,Yes,270,4,Composting,84
+Bamboo-Muslin,Yes,Yes,420,5,Composting,85
+Bamboo-Taffeta,No,Yes,370,0,Incineration,38
+Bamboo-Shantung,No,Yes,270,2,Mechanical Recycling,55
+Artificial Silk,No,Yes,320,1,Incineration,40
+Aramid Fabric,No,Yes,520,-2,Mechanical Recycling,60
+Beaded Fabric,No,Yes,310,2,Incineration,35
+Bourette Silk,Yes,Yes,250,5,Composting,88
+Burlap,Yes,Yes,400,6,Composting,90
+Cambric,Yes,Yes,340,4,Composting,85
+Cire Fabric,No,Yes,370,-1,Incineration,30
+Coir Fabric,Yes,Yes,420,5,Composting,92
+Coated Fabric,No,Yes,600,-3,Mechanical Recycling,50
+Corded Fabric,No,Yes,550,-2,Mechanical Recycling,58
+Dobby Weave,No,Yes,490,-1,Mechanical Recycling,60
+Double Cloth,No,Yes,460,-2,Mechanical Recycling,62
+Double Knit,No,Yes,510,-3,Mechanical Recycling,55
+Drill Cotton,No,Yes,700,-5,Mechanical Recycling,68
+Duck Canvas,No,Yes,750,-4,Mechanical Recycling,67
+Embossed Fabric,No,Yes,320,0,Incineration,38
+Ethnic Print Fabric,No,Yes,380,2,Mechanical Recycling,55
+Faux Fur,No,Yes,690,-3,Incineration,30
+Faux Leather,No,Yes,710,-4,Incineration,28
+Faux Suede,No,Yes,630,-3,Incineration,32
+Feather Fabric,Yes,Yes,350,5,Composting,80
+Filament Yarn,No,Yes,400,1,Mechanical Recycling,65
+Fishnet Fabric,No,Yes,480,-2,Mechanical Recycling,58
+Glazed Cotton,Yes,Yes,420,4,Composting,85
+Handloom Fabric,Yes,Yes,390,6,Composting,88
+Heat-Resistant Fabric,No,Yes,520,-3,Mechanical Recycling,50
+High-Twist Yarn Fabric,No,Yes,440,-1,Mechanical Recycling,62
+Honeycomb Fabric,Yes,Yes,400,5,Composting,89
+Kevlar Fabric,No,Yes,550,-2,Mechanical Recycling,50
+Laminated Fabric,No,Yes,680,-4,Mechanical Recycling,55
+Leather,No,Yes,720,-5,Mechanical Recycling,40
+Mesh Fabric,No,Yes,370,-2,Mechanical Recycling,58
+Metal Fabric,No,Yes,580,-3,Mechanical Recycling,52
+Mixed Fiber Fabric,No,Yes,470,-2,Mechanical Recycling,57
+Monofilament Fabric,No,Yes,390,1,Mechanical Recycling,60
+Nylon,No,Yes,650,-3,Mechanical Recycling,55
+Nylon Mesh,No,Yes,470,-2,Mechanical Recycling,57
+Oilskin Fabric,No,Yes,530,-3,Incineration,30
+Open Weave Fabric,No,Yes,410,-1,Mechanical Recycling,62
+Overdyed Fabric,No,Yes,460,0,Mechanical Recycling,55
+Paintable Fabric,No,Yes,500,-2,Mechanical Recycling,60
+Paper Fabric,Yes,Yes,320,4,Composting,90
+Plastic Fabric,No,Yes,640,-4,Mechanical Recycling,50
+Plissé Weave,No,Yes,290,3,Incineration,42
+Polythene Fabric,No,Yes,680,-5,Mechanical Recycling,40
+Polyurethane Coated Fabric,No,Yes,560,-3,Incineration,38
+Quilted Fabric,No,Yes,510,-2,Mechanical Recycling,55
+Raschel Knit Fabric,No,Yes,450,1,Mechanical Recycling,58
+Reinforced Fabric,No,Yes,550,-2,Mechanical Recycling,60
+Resin-Coated Fabric,No,Yes,600,-4,Incineration,30
+Resin-Coated Fabric,No,Yes,580,-3,Incineration,40
+Vinyl-Coated Polyester,No,Yes,620,-2,Mechanical Recycling,55
+PVC-Coated Fabric,No,Yes,700,-4,Mechanical Recycling,50
+Teflon-Coated Fabric,No,Yes,540,-3,Mechanical Recycling,52
+Acrylic-Coated Cotton,No,Yes,450,1,Mechanical Recycling,60
+Fire-Resistant Wool,Yes,Yes,350,4,Composting,75
+UV-Resistant Nylon,No,Yes,620,-2,Mechanical Recycling,58
+Waterproof Polyester,No,Yes,700,-3,Mechanical Recycling,55
+Oil-Resistant Canvas,No,Yes,640,-2,Mechanical Recycling,57
+Waxed Cotton,Yes,Yes,400,3,Composting,80
+Antibacterial Bamboo,Yes,Yes,500,6,Composting,85
+Stain-Resistant Microfiber,No,Yes,680,-4,Mechanical Recycling,50
+Reflective Safety Fabric,No,Yes,600,-3,Mechanical Recycling,53
+Heat-Resistant Kevlar,No,Yes,750,-5,Mechanical Recycling,48
+Bulletproof Aramid Fabric,No,Yes,720,-4,Mechanical Recycling,45
+Conductive Fabric,No,Yes,580,-2,Mechanical Recycling,55
+Anti-Static Polypropylene,No,Yes,540,-1,Mechanical Recycling,58
+Thermal Insulation Wool,Yes,Yes,380,5,Composting,82
+Lightweight Ripstop Nylon,No,Yes,490,-2,Mechanical Recycling,60
+High-Tenacity Polyester,No,Yes,520,-3,Mechanical Recycling,55
+Smart Textile with Sensors,No,Yes,460,1,Incineration,35
+Moisture-Wicking Polyester,No,Yes,500,-2,Mechanical Recycling,58
+Silver-Coated Antibacterial Fabric,No,Yes,480,-1,Mechanical Recycling,50
+Phase-Change Cooling Fabric,No,Yes,460,0,Mechanical Recycling,55
+Water-Absorbent Microfiber,No,Yes,540,-2,Mechanical Recycling,57
+High-Elasticity Spandex Blend,No,Yes,510,-1,Incineration,45
+Weatherproof Neoprene,No,Yes,620,-3,Incineration,40
+Non-Woven Polypropylene,No,Yes,590,-2,Mechanical Recycling,50
+UV-Blocking Lycra,No,Yes,520,-3,Mechanical Recycling,55
+Carbon Fiber Reinforced Fabric,No,Yes,700,-4,Mechanical Recycling,48
+Fiberglass Mesh,No,Yes,680,-3,Mechanical Recycling,50
+High-Density Memory Foam Fabric,No,Yes,640,-2,Mechanical Recycling,52
+Laminated Composite Fabric,No,Yes,600,-3,Mechanical Recycling,55
+Eco-Friendly Tencel Blend,Yes,Yes,480,5,Composting,88
+Hemp-Cotton Organic Fabric,Yes,Yes,450,6,Composting,85
+Bamboo-Silk Luxury Blend,Yes,Yes,400,5,Composting,90
+Wool-Cashmere Deluxe Blend,Yes,Yes,380,4,Composting,85
+Merino Wool-Tencel Hybrid,Yes,Yes,340,5,Composting,86
+Jute-Rayon Natural Fiber Mix,Yes,Yes,420,4,Composting,87
+Velvet-Chiffon Elegant Fabric,No,Yes,450,2,Mechanical Recycling,50
+Satin-Brocade Formal Wear Fabric,No,Yes,480,1,Mechanical Recycling,55
+Fleece-Polyester Durable Blend,No,Yes,500,-2,Mechanical Recycling,58
+Piqué-Spandex Stretchable Fabric,No,Yes,490,-1,Mechanical Recycling,52
+Linen-Denim Vintage Style Fabric,No,Yes,510,-2,Mechanical Recycling,57
+Corduroy-Satin Hybrid Fabric,No,Yes,460,0,Mechanical Recycling,55
+Poplin-Georgette Light Fabric,No,Yes,480,-1,Mechanical Recycling,58
+Gabardine-Wool Classic Suit Fabric,No,Yes,520,-2,Mechanical Recycling,60
+Jacquard-Organza Royal Fabric,No,Yes,540,-3,Mechanical Recycling,55
+Taffeta-Velvet Opulent Fabric,No,Yes,480,-2,Mechanical Recycling,52
+Polynosic-Viscose Soft Fabric,No,Yes,460,1,Chemical Recycling,73
+Lyocell-Bamboo Sustainable Fabric,Yes,Yes,430,5,Chemical Recycling,78
+Wool-Linen-Coated Winter Fabric,Yes,Yes,410,4,Composting,80
+Moisture-Proof Military Fabric,No,Yes,600,-3,Mechanical Recycling,60
+Flame-Retardant Upholstery Fabric,No,Yes,650,-4,Mechanical Recycling,58
+Breathable 3D Air Mesh,No,Yes,500,-2,Mechanical Recycling,55
+Super-Stretch Activewear Fabric,No,Yes,470,1,Mechanical Recycling,57
+Microfiber-Suede Ultra-Soft Fabric,No,Yes,530,-2,Mechanical Recycling,50
+Tulle-Silk Evening Wear Fabric,No,Yes,420,0,Mechanical Recycling,48
+High-Performance Marathon Fabric,No,Yes,460,-1,Mechanical Recycling,55
+Ice-Cold Cooling Fabric,No,Yes,430,1,Mechanical Recycling,52
+Windproof Softshell Fabric,No,Yes,520,-2,Mechanical Recycling,55
+Thermal-Heated Smart Fabric,No,Yes,540,-3,Mechanical Recycling,48
+Organic Muslin-Cotton Baby Fabric,Yes,Yes,350,5,Composting,85
+Modal-Satin Hybrid Sleepwear Fabric,Yes,Yes,400,4,Composting,88
+Wrinkle-Resistant Polyester,No,Yes,600,-2,Mechanical Recycling,55
+Embossed Leather-Style Fabric,No,Yes,650,-3,Mechanical Recycling,50
+Carbon-Infused Athletic Fabric,No,Yes,570,-2,Mechanical Recycling,52
+Bio-Degradable Biopolymer Fabric,Yes,Yes,380,5,Composting,90
+Water-Soluble Smart Fabric,Yes,Yes,320,6,Composting,92
+Cork-Infused Vegan Leather,Yes,Yes,450,5,Composting,89
+Silver-Thread Medical Fabric,No,Yes,420,-1,Mechanical Recycling,50
+Conductive Graphene Textile,No,Yes,500,-3,Mechanical Recycling,55
+Anti-Microbial Copper-Infused Fabric,No,Yes,480,-2,Mechanical Recycling,58
+Seaweed-Based Fabric,Yes,Yes,360,5,Composting,90
+Algae-Derived Eco-Fabric,Yes,Yes,340,6,Composting,88
+Glow-in-the-Dark Textile,No,Yes,530,-3,Mechanical Recycling,48
+LED-Embedded Interactive Fabric,No,Yes,580,-4,Mechanical Recycling,45
+Recycled Ocean Plastic Fabric,No,Yes,620,-3,Mechanical Recycling,55
+Thermochromic Color-Changing Fabric,No,Yes,500,-2,Mechanical Recycling,52
+Self-Healing Nano-Fabric,No,Yes,460,-1,Mechanical Recycling,50
+3D-Printed Custom Fabric,No,Yes,540,-3,Mechanical Recycling,48
+Electrospun Nanofiber Textile,No,Yes,500,-2,Mechanical Recycling,50
+Vegan Leather Alternative Fabric,Yes,Yes,410,5,Composting,88
+Water-Reactive Pattern Fabric,No,Yes,430,1,Mechanical Recycling,55
+Fragrance-Infused Perfume Fabric,No,Yes,460,-2,Mechanical Recycling,50
+Liquid-Repelling Lotus-Effect Fabric,No,Yes,530,-3,Mechanical Recycling,45
+Solar-Powered Charging Fabric,No,Yes,600,-4,Mechanical Recycling,48
+Invisible Camouflage Fabric,No,Yes,550,-2,Mechanical Recycling,55
+Soundproof Acoustic Fabric,No,Yes,580,-3,Mechanical Recycling,50
+Ultra-Lightweight Parachute Fabric,No,Yes,470,-2,Mechanical Recycling,55
+Climate-Adaptive Fabric,No,Yes,490,-1,Mechanical Recycling,50
+Self-Cleaning Hydrophobic Fabric,No,Yes,560,-3,Mechanical Recycling,52
+Bullet-Absorbing Gel Fabric,No,Yes,610,-4,Mechanical Recycling,50
+Shape-Memory Smart Fabric,No,Yes,520,-2,Mechanical Recycling,55
+Artificial Spider Silk High-Strength Fabric,No,Yes,530,-3,Mechanical Recycling,50
+Super-Insulated Arctic Survival Fabric,No,Yes,600,-4,Mechanical Recycling,48
+Flexible OLED-Embedded Display Fabric,No,Yes,700,-5,Mechanical Recycling,45
+Anti-Radiation Protective Fabric,No,Yes,650,-3,Mechanical Recycling,50
+NASA-Inspired Space Suit Fabric,No,Yes,750,-4,Mechanical Recycling,45
+Future Tech Biodegradable Fabric,Yes,Yes,380,5,Composting,90

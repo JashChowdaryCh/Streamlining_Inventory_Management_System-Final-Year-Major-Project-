@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fabric Recommendations</title>
+</head>
+<body>
+    <h2>Recommend Fabrics</h2>
+    <form method="post">
+        <label>Season: <input type="text" name="season"></label><br>
+        <label>Occasion: <input type="text" name="occasion"></label><br>
+        <label>Budget: <input type="text" name="budget"></label><br>
+        <input type="submit" value="Get Recommendations">
+    </form>
+    {% if recommendations %}
+        <h3>Recommended:</h3>
+        <ul>
+        {% for fabric in recommendations %}
+            <li>{{ fabric }}</li>
+        {% endfor %}
+        </ul>
+    {% elif error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <a href="/">Back</a>
+</body>
+</html>

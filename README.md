@@ -18,7 +18,7 @@
 - [Complexity Analysis](#complexity-analysis)
 - [Team Members](#team-members)
 - [Acknowledgements](#acknowledgements)
-- [License](#license)
+
 
 ## Introduction
 In today's fast-evolving mechanical landscape, efficient stock administration has become a cornerstone of operational success—especially in resource-intensive spaces like the material industry. Conventional stock systems often suffer from challenges such as manual errors, delayed stock updates, lack of real-time data, and inefficient asset allocation. These issues can lead to overstocking, stockouts, and significant financial losses. With the increasing demand for intelligent, automated, and data-driven systems, Artificial Intelligence (AI) and Internet of Things (IoT) technologies have emerged as powerful enablers of next-generation stock administration.
